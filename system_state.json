@@ -1,0 +1,10 @@
+{
+  "mode": "NORMAL",
+  "battery_level": 80,
+  "speech_enabled": true,
+  "ui_refresh_seconds": 5,
+  "min_severity_shown": "LOW",
+  "panic_active": false,
+  "low_power_active": false,
+  "last_updated": "2026-03-15T00:20:06"
+}

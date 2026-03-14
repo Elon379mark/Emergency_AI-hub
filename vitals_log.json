@@ -1,0 +1,3719 @@
+{
+  "patients": {
+    "INC-B50838_unknown_person": {
+      "incident_id": "INC-B50838",
+      "victim_name": "unknown person",
+      "readings": [
+        {
+          "reading_id": "44dfa5c9",
+          "timestamp": "2026-03-13T03:36:26",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": 0,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [
+            {
+              "vital": "respiratory_rate",
+              "value": 0,
+              "severity": "CRITICAL",
+              "message": "CRITICAL RESPIRATORY DEPRESSION: RR 0/min \u2014 BVM ready"
+            }
+          ],
+          "alert_count": 1,
+          "has_critical": true
+        }
+      ],
+      "created_at": "2026-03-13T03:36:26",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-13T03:36:26"
+    },
+    "INC-4933D2_unknown_person": {
+      "incident_id": "INC-4933D2",
+      "victim_name": "unknown person",
+      "readings": [
+        {
+          "reading_id": "eb275d2f",
+          "timestamp": "2026-03-13T03:45:29",
+          "pulse_bpm": 0,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [
+            {
+              "vital": "pulse_bpm",
+              "value": 0,
+              "severity": "CRITICAL",
+              "message": "SEVERE BRADYCARDIA: 0 bpm (<30)"
+            }
+          ],
+          "alert_count": 1,
+          "has_critical": true
+        }
+      ],
+      "created_at": "2026-03-13T03:45:29",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-13T03:45:29"
+    },
+    "INC-721D63_people": {
+      "incident_id": "INC-721D63",
+      "victim_name": "people",
+      "readings": [
+        {
+          "reading_id": "097305d0",
+          "timestamp": "2026-03-13T19:20:38",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Unresponsive",
+          "notes": "",
+          "alerts": [
+            {
+              "vital": "consciousness",
+              "value": "Unresponsive",
+              "severity": "CRITICAL",
+              "message": "ALTERED CONSCIOUSNESS: Unresponsive \u2014 Neurological assessment required"
+            }
+          ],
+          "alert_count": 1,
+          "has_critical": true
+        }
+      ],
+      "created_at": "2026-03-13T19:20:38",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-13T19:20:38"
+    },
+    "INC-049B2B_people": {
+      "incident_id": "INC-049B2B",
+      "victim_name": "people",
+      "readings": [
+        {
+          "reading_id": "b9b8c977",
+          "timestamp": "2026-03-13T19:22:27",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Unresponsive",
+          "notes": "",
+          "alerts": [
+            {
+              "vital": "consciousness",
+              "value": "Unresponsive",
+              "severity": "CRITICAL",
+              "message": "ALTERED CONSCIOUSNESS: Unresponsive \u2014 Neurological assessment required"
+            }
+          ],
+          "alert_count": 1,
+          "has_critical": true
+        }
+      ],
+      "created_at": "2026-03-13T19:22:27",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-13T19:22:27"
+    },
+    "INC-27EF9D_elderly": {
+      "incident_id": "INC-27EF9D",
+      "victim_name": "elderly",
+      "readings": [
+        {
+          "reading_id": "355ce832",
+          "timestamp": "2026-03-13T19:58:17",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [],
+          "alert_count": 0,
+          "has_critical": false
+        }
+      ],
+      "created_at": "2026-03-13T19:58:17",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-13T19:58:17"
+    },
+    "INC-A2058F_elderly": {
+      "incident_id": "INC-A2058F",
+      "victim_name": "elderly",
+      "readings": [
+        {
+          "reading_id": "c340b86b",
+          "timestamp": "2026-03-13T20:02:36",
+          "pulse_bpm": 0,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Unresponsive",
+          "notes": "",
+          "alerts": [
+            {
+              "vital": "pulse_bpm",
+              "value": 0,
+              "severity": "CRITICAL",
+              "message": "SEVERE BRADYCARDIA: 0 bpm (<30)"
+            },
+            {
+              "vital": "consciousness",
+              "value": "Unresponsive",
+              "severity": "CRITICAL",
+              "message": "ALTERED CONSCIOUSNESS: Unresponsive \u2014 Neurological assessment required"
+            }
+          ],
+          "alert_count": 2,
+          "has_critical": true
+        }
+      ],
+      "created_at": "2026-03-13T20:02:36",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-13T20:02:36"
+    },
+    "INC-EC6627_man": {
+      "incident_id": "INC-EC6627",
+      "victim_name": "man",
+      "readings": [
+        {
+          "reading_id": "7d981cf0",
+          "timestamp": "2026-03-13T20:03:29",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [],
+          "alert_count": 0,
+          "has_critical": false
+        }
+      ],
+      "created_at": "2026-03-13T20:03:29",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-13T20:03:29"
+    },
+    "INC-5FD69D_elderly": {
+      "incident_id": "INC-5FD69D",
+      "victim_name": "elderly",
+      "readings": [
+        {
+          "reading_id": "5a9aa9ca",
+          "timestamp": "2026-03-13T20:08:05",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [],
+          "alert_count": 0,
+          "has_critical": false
+        }
+      ],
+      "created_at": "2026-03-13T20:08:05",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-13T20:08:05"
+    },
+    "INC-C396AA_elderly": {
+      "incident_id": "INC-C396AA",
+      "victim_name": "elderly",
+      "readings": [
+        {
+          "reading_id": "fe24f0bb",
+          "timestamp": "2026-03-13T21:07:08",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [],
+          "alert_count": 0,
+          "has_critical": false
+        }
+      ],
+      "created_at": "2026-03-13T21:07:08",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-13T21:07:08"
+    },
+    "INC-202B53_elderly": {
+      "incident_id": "INC-202B53",
+      "victim_name": "elderly",
+      "readings": [
+        {
+          "reading_id": "6ff1da60",
+          "timestamp": "2026-03-13T21:07:08",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [],
+          "alert_count": 0,
+          "has_critical": false
+        }
+      ],
+      "created_at": "2026-03-13T21:07:08",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-13T21:07:08"
+    },
+    "INC-1CE024_elderly": {
+      "incident_id": "INC-1CE024",
+      "victim_name": "elderly",
+      "readings": [
+        {
+          "reading_id": "59301dac",
+          "timestamp": "2026-03-13T21:07:12",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [],
+          "alert_count": 0,
+          "has_critical": false
+        }
+      ],
+      "created_at": "2026-03-13T21:07:12",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-13T21:07:12"
+    },
+    "INC-1C72D2_elderly": {
+      "incident_id": "INC-1C72D2",
+      "victim_name": "elderly",
+      "readings": [
+        {
+          "reading_id": "37932b4d",
+          "timestamp": "2026-03-13T21:07:18",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [],
+          "alert_count": 0,
+          "has_critical": false
+        }
+      ],
+      "created_at": "2026-03-13T21:07:18",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-13T21:07:18"
+    },
+    "INC-1553B0_people": {
+      "incident_id": "INC-1553B0",
+      "victim_name": "people",
+      "readings": [
+        {
+          "reading_id": "e76ec2df",
+          "timestamp": "2026-03-13T21:33:45",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Unresponsive",
+          "notes": "",
+          "alerts": [
+            {
+              "vital": "consciousness",
+              "value": "Unresponsive",
+              "severity": "CRITICAL",
+              "message": "ALTERED CONSCIOUSNESS: Unresponsive \u2014 Neurological assessment required"
+            }
+          ],
+          "alert_count": 1,
+          "has_critical": true
+        }
+      ],
+      "created_at": "2026-03-13T21:33:45",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-13T21:33:45"
+    },
+    "INC-A63DE7_people": {
+      "incident_id": "INC-A63DE7",
+      "victim_name": "people",
+      "readings": [
+        {
+          "reading_id": "c0d01f6d",
+          "timestamp": "2026-03-13T21:39:27",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Unresponsive",
+          "notes": "",
+          "alerts": [
+            {
+              "vital": "consciousness",
+              "value": "Unresponsive",
+              "severity": "CRITICAL",
+              "message": "ALTERED CONSCIOUSNESS: Unresponsive \u2014 Neurological assessment required"
+            }
+          ],
+          "alert_count": 1,
+          "has_critical": true
+        }
+      ],
+      "created_at": "2026-03-13T21:39:27",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-13T21:39:27"
+    },
+    "INC-F74F86_people": {
+      "incident_id": "INC-F74F86",
+      "victim_name": "people",
+      "readings": [
+        {
+          "reading_id": "ac950f04",
+          "timestamp": "2026-03-13T21:41:48",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Unresponsive",
+          "notes": "",
+          "alerts": [
+            {
+              "vital": "consciousness",
+              "value": "Unresponsive",
+              "severity": "CRITICAL",
+              "message": "ALTERED CONSCIOUSNESS: Unresponsive \u2014 Neurological assessment required"
+            }
+          ],
+          "alert_count": 1,
+          "has_critical": true
+        }
+      ],
+      "created_at": "2026-03-13T21:41:48",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-13T21:41:48"
+    },
+    "INC-83CF2B_multiple": {
+      "incident_id": "INC-83CF2B",
+      "victim_name": "multiple",
+      "readings": [
+        {
+          "reading_id": "e7fd20e3",
+          "timestamp": "2026-03-13T21:43:01",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Unresponsive",
+          "notes": "",
+          "alerts": [
+            {
+              "vital": "consciousness",
+              "value": "Unresponsive",
+              "severity": "CRITICAL",
+              "message": "ALTERED CONSCIOUSNESS: Unresponsive \u2014 Neurological assessment required"
+            }
+          ],
+          "alert_count": 1,
+          "has_critical": true
+        }
+      ],
+      "created_at": "2026-03-13T21:43:01",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-13T21:43:01"
+    },
+    "INC-F43F24_unknown_person": {
+      "incident_id": "INC-F43F24",
+      "victim_name": "unknown person",
+      "readings": [
+        {
+          "reading_id": "17285525",
+          "timestamp": "2026-03-14T12:03:39",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [],
+          "alert_count": 0,
+          "has_critical": false
+        }
+      ],
+      "created_at": "2026-03-14T12:03:39",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T12:03:39"
+    },
+    "INC-B59942_unknown_person": {
+      "incident_id": "INC-B59942",
+      "victim_name": "unknown person",
+      "readings": [
+        {
+          "reading_id": "a0540b45",
+          "timestamp": "2026-03-14T12:03:48",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [],
+          "alert_count": 0,
+          "has_critical": false
+        }
+      ],
+      "created_at": "2026-03-14T12:03:48",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T12:03:48"
+    },
+    "INC-869D93_unknown_person": {
+      "incident_id": "INC-869D93",
+      "victim_name": "unknown person",
+      "readings": [
+        {
+          "reading_id": "6545f4de",
+          "timestamp": "2026-03-14T12:05:58",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Unresponsive",
+          "notes": "",
+          "alerts": [
+            {
+              "vital": "consciousness",
+              "value": "Unresponsive",
+              "severity": "CRITICAL",
+              "message": "ALTERED CONSCIOUSNESS: Unresponsive \u2014 Neurological assessment required"
+            }
+          ],
+          "alert_count": 1,
+          "has_critical": true
+        }
+      ],
+      "created_at": "2026-03-14T12:05:58",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T12:05:58"
+    },
+    "INC-5F7507_adult": {
+      "incident_id": "INC-5F7507",
+      "victim_name": "adult",
+      "readings": [
+        {
+          "reading_id": "9335ec6a",
+          "timestamp": "2026-03-14T12:10:41",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [],
+          "alert_count": 0,
+          "has_critical": false
+        }
+      ],
+      "created_at": "2026-03-14T12:10:41",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T12:10:41"
+    },
+    "INC-3D116C_child": {
+      "incident_id": "INC-3D116C",
+      "victim_name": "child",
+      "readings": [
+        {
+          "reading_id": "4c8065b6",
+          "timestamp": "2026-03-14T12:13:23",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [],
+          "alert_count": 0,
+          "has_critical": false
+        }
+      ],
+      "created_at": "2026-03-14T12:13:23",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T12:13:23"
+    },
+    "INC-6C794B_child": {
+      "incident_id": "INC-6C794B",
+      "victim_name": "child",
+      "readings": [
+        {
+          "reading_id": "41fc6673",
+          "timestamp": "2026-03-14T12:20:09",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [],
+          "alert_count": 0,
+          "has_critical": false
+        }
+      ],
+      "created_at": "2026-03-14T12:20:09",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T12:20:09"
+    },
+    "INC-FAB10F_child": {
+      "incident_id": "INC-FAB10F",
+      "victim_name": "child",
+      "readings": [
+        {
+          "reading_id": "624b9515",
+          "timestamp": "2026-03-14T12:23:22",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [],
+          "alert_count": 0,
+          "has_critical": false
+        }
+      ],
+      "created_at": "2026-03-14T12:23:22",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T12:23:22"
+    },
+    "INC-965224_child": {
+      "incident_id": "INC-965224",
+      "victim_name": "child",
+      "readings": [
+        {
+          "reading_id": "3c093358",
+          "timestamp": "2026-03-14T12:26:14",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [],
+          "alert_count": 0,
+          "has_critical": false
+        }
+      ],
+      "created_at": "2026-03-14T12:26:14",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T12:26:14"
+    },
+    "INC-5EA647_unknown_person": {
+      "incident_id": "INC-5EA647",
+      "victim_name": "unknown person",
+      "readings": [
+        {
+          "reading_id": "905388c1",
+          "timestamp": "2026-03-14T12:39:32",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [],
+          "alert_count": 0,
+          "has_critical": false
+        }
+      ],
+      "created_at": "2026-03-14T12:39:32",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T12:39:32"
+    },
+    "INC-5FEAEE_child": {
+      "incident_id": "INC-5FEAEE",
+      "victim_name": "child",
+      "readings": [
+        {
+          "reading_id": "88054bc7",
+          "timestamp": "2026-03-14T12:39:54",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": 0,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [
+            {
+              "vital": "respiratory_rate",
+              "value": 0,
+              "severity": "CRITICAL",
+              "message": "CRITICAL RESPIRATORY DEPRESSION: RR 0/min \u2014 BVM ready"
+            }
+          ],
+          "alert_count": 1,
+          "has_critical": true
+        }
+      ],
+      "created_at": "2026-03-14T12:39:54",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T12:39:54"
+    },
+    "INC-908D98_child": {
+      "incident_id": "INC-908D98",
+      "victim_name": "child",
+      "readings": [
+        {
+          "reading_id": "33564bbd",
+          "timestamp": "2026-03-14T12:40:19",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": 0,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [
+            {
+              "vital": "respiratory_rate",
+              "value": 0,
+              "severity": "CRITICAL",
+              "message": "CRITICAL RESPIRATORY DEPRESSION: RR 0/min \u2014 BVM ready"
+            }
+          ],
+          "alert_count": 1,
+          "has_critical": true
+        }
+      ],
+      "created_at": "2026-03-14T12:40:19",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T12:40:19"
+    },
+    "INC-EE0329_adult": {
+      "incident_id": "INC-EE0329",
+      "victim_name": "adult",
+      "readings": [
+        {
+          "reading_id": "a318caf8",
+          "timestamp": "2026-03-14T12:40:41",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [],
+          "alert_count": 0,
+          "has_critical": false
+        }
+      ],
+      "created_at": "2026-03-14T12:40:41",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T12:40:41"
+    },
+    "INC-89AE22_adult": {
+      "incident_id": "INC-89AE22",
+      "victim_name": "adult",
+      "readings": [
+        {
+          "reading_id": "a4b706c2",
+          "timestamp": "2026-03-14T12:40:55",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [],
+          "alert_count": 0,
+          "has_critical": false
+        }
+      ],
+      "created_at": "2026-03-14T12:40:55",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T12:40:55"
+    },
+    "INC-CA408A_child": {
+      "incident_id": "INC-CA408A",
+      "victim_name": "child",
+      "readings": [
+        {
+          "reading_id": "7a4b40c8",
+          "timestamp": "2026-03-14T12:41:23",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": 0,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [
+            {
+              "vital": "respiratory_rate",
+              "value": 0,
+              "severity": "CRITICAL",
+              "message": "CRITICAL RESPIRATORY DEPRESSION: RR 0/min \u2014 BVM ready"
+            }
+          ],
+          "alert_count": 1,
+          "has_critical": true
+        }
+      ],
+      "created_at": "2026-03-14T12:41:23",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T12:41:23"
+    },
+    "INC-501357_unknown_person": {
+      "incident_id": "INC-501357",
+      "victim_name": "unknown person",
+      "readings": [
+        {
+          "reading_id": "f2abb14d",
+          "timestamp": "2026-03-14T12:41:48",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [],
+          "alert_count": 0,
+          "has_critical": false
+        }
+      ],
+      "created_at": "2026-03-14T12:41:48",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T12:41:48"
+    },
+    "INC-520507_Boy": {
+      "incident_id": "INC-520507",
+      "victim_name": "Boy",
+      "readings": [
+        {
+          "reading_id": "36b993df",
+          "timestamp": "2026-03-14T14:44:30",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [],
+          "alert_count": 0,
+          "has_critical": false
+        }
+      ],
+      "created_at": "2026-03-14T14:44:30",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T14:44:30"
+    },
+    "INC-33EAC2_Boy": {
+      "incident_id": "INC-33EAC2",
+      "victim_name": "Boy",
+      "readings": [
+        {
+          "reading_id": "64d63a8b",
+          "timestamp": "2026-03-14T14:56:35",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [],
+          "alert_count": 0,
+          "has_critical": false
+        }
+      ],
+      "created_at": "2026-03-14T14:56:35",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T14:56:35"
+    },
+    "INC-516043_Boy": {
+      "incident_id": "INC-516043",
+      "victim_name": "Boy",
+      "readings": [
+        {
+          "reading_id": "b7205978",
+          "timestamp": "2026-03-14T14:57:42",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [],
+          "alert_count": 0,
+          "has_critical": false
+        }
+      ],
+      "created_at": "2026-03-14T14:57:42",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T14:57:42"
+    },
+    "INC-24C6AD_Adult_male": {
+      "incident_id": "INC-24C6AD",
+      "victim_name": "Adult male",
+      "readings": [
+        {
+          "reading_id": "ef1f6adc",
+          "timestamp": "2026-03-14T15:02:06",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [],
+          "alert_count": 0,
+          "has_critical": false
+        }
+      ],
+      "created_at": "2026-03-14T15:02:06",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T15:02:06"
+    },
+    "INC-6AD180_Child": {
+      "incident_id": "INC-6AD180",
+      "victim_name": "Child",
+      "readings": [
+        {
+          "reading_id": "335f8fde",
+          "timestamp": "2026-03-14T15:04:21",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [],
+          "alert_count": 0,
+          "has_critical": false
+        }
+      ],
+      "created_at": "2026-03-14T15:04:21",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T15:04:21"
+    },
+    "INC-DED3D1_Child": {
+      "incident_id": "INC-DED3D1",
+      "victim_name": "Child",
+      "readings": [
+        {
+          "reading_id": "a1d0f159",
+          "timestamp": "2026-03-14T15:06:25",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [],
+          "alert_count": 0,
+          "has_critical": false
+        }
+      ],
+      "created_at": "2026-03-14T15:06:25",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T15:06:25"
+    },
+    "INC-421CBC_Adult": {
+      "incident_id": "INC-421CBC",
+      "victim_name": "Adult",
+      "readings": [
+        {
+          "reading_id": "94bd6f2b",
+          "timestamp": "2026-03-14T15:07:12",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [],
+          "alert_count": 0,
+          "has_critical": false
+        }
+      ],
+      "created_at": "2026-03-14T15:07:12",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T15:07:12"
+    },
+    "INC-06234B_Adult": {
+      "incident_id": "INC-06234B",
+      "victim_name": "Adult",
+      "readings": [
+        {
+          "reading_id": "e81244d6",
+          "timestamp": "2026-03-14T15:11:06",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [],
+          "alert_count": 0,
+          "has_critical": false
+        }
+      ],
+      "created_at": "2026-03-14T15:11:06",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T15:11:06"
+    },
+    "INC-01564E_Adult": {
+      "incident_id": "INC-01564E",
+      "victim_name": "Adult",
+      "readings": [
+        {
+          "reading_id": "99c0f369",
+          "timestamp": "2026-03-14T15:24:29",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [],
+          "alert_count": 0,
+          "has_critical": false
+        }
+      ],
+      "created_at": "2026-03-14T15:24:29",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T15:24:29"
+    },
+    "INC-3C7660_Adult_male": {
+      "incident_id": "INC-3C7660",
+      "victim_name": "Adult male",
+      "readings": [
+        {
+          "reading_id": "725d4c89",
+          "timestamp": "2026-03-14T15:24:55",
+          "pulse_bpm": 0,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Unresponsive",
+          "notes": "",
+          "alerts": [
+            {
+              "vital": "pulse_bpm",
+              "value": 0,
+              "severity": "CRITICAL",
+              "message": "SEVERE BRADYCARDIA: 0 bpm (<30)"
+            },
+            {
+              "vital": "consciousness",
+              "value": "Unresponsive",
+              "severity": "CRITICAL",
+              "message": "ALTERED CONSCIOUSNESS: Unresponsive \u2014 Neurological assessment required"
+            }
+          ],
+          "alert_count": 2,
+          "has_critical": true
+        }
+      ],
+      "created_at": "2026-03-14T15:24:55",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T15:24:55"
+    },
+    "INC-BA0F95_Aged_woman": {
+      "incident_id": "INC-BA0F95",
+      "victim_name": "Aged woman",
+      "readings": [
+        {
+          "reading_id": "8734d7d9",
+          "timestamp": "2026-03-14T15:25:39",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [],
+          "alert_count": 0,
+          "has_critical": false
+        }
+      ],
+      "created_at": "2026-03-14T15:25:39",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T15:25:39"
+    },
+    "INC-7E6FA4_Young_boy": {
+      "incident_id": "INC-7E6FA4",
+      "victim_name": "Young boy",
+      "readings": [
+        {
+          "reading_id": "7f910110",
+          "timestamp": "2026-03-14T15:26:29",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [],
+          "alert_count": 0,
+          "has_critical": false
+        }
+      ],
+      "created_at": "2026-03-14T15:26:29",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T15:26:29"
+    },
+    "INC-4AD558_Young_boy": {
+      "incident_id": "INC-4AD558",
+      "victim_name": "Young boy",
+      "readings": [
+        {
+          "reading_id": "84ca016b",
+          "timestamp": "2026-03-14T15:27:47",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [],
+          "alert_count": 0,
+          "has_critical": false
+        }
+      ],
+      "created_at": "2026-03-14T15:27:47",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T15:27:47"
+    },
+    "INC-5B0E68_Multiple_victims": {
+      "incident_id": "INC-5B0E68",
+      "victim_name": "Multiple victims",
+      "readings": [
+        {
+          "reading_id": "09ec43b1",
+          "timestamp": "2026-03-14T15:28:19",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [],
+          "alert_count": 0,
+          "has_critical": false
+        }
+      ],
+      "created_at": "2026-03-14T15:28:19",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T15:28:19"
+    },
+    "INC-3E6C7C_Elderly_woman": {
+      "incident_id": "INC-3E6C7C",
+      "victim_name": "Elderly woman",
+      "readings": [
+        {
+          "reading_id": "1602763c",
+          "timestamp": "2026-03-14T15:34:23",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Voice",
+          "notes": "",
+          "alerts": [],
+          "alert_count": 0,
+          "has_critical": false
+        }
+      ],
+      "created_at": "2026-03-14T15:34:23",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T15:34:23"
+    },
+    "INC-2EE927_Adult": {
+      "incident_id": "INC-2EE927",
+      "victim_name": "Adult",
+      "readings": [
+        {
+          "reading_id": "98498d11",
+          "timestamp": "2026-03-14T15:38:25",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [],
+          "alert_count": 0,
+          "has_critical": false
+        }
+      ],
+      "created_at": "2026-03-14T15:38:25",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T15:38:25"
+    },
+    "INC-885DFC_Infant": {
+      "incident_id": "INC-885DFC",
+      "victim_name": "Infant",
+      "readings": [
+        {
+          "reading_id": "6c82cf62",
+          "timestamp": "2026-03-14T15:38:28",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [],
+          "alert_count": 0,
+          "has_critical": false
+        }
+      ],
+      "created_at": "2026-03-14T15:38:28",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T15:38:28"
+    },
+    "INC-326449_Adult": {
+      "incident_id": "INC-326449",
+      "victim_name": "Adult",
+      "readings": [
+        {
+          "reading_id": "820651fb",
+          "timestamp": "2026-03-14T15:38:31",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [],
+          "alert_count": 0,
+          "has_critical": false
+        }
+      ],
+      "created_at": "2026-03-14T15:38:31",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T15:38:31"
+    },
+    "INC-6FAE28_50_people": {
+      "incident_id": "INC-6FAE28",
+      "victim_name": "50 people",
+      "readings": [
+        {
+          "reading_id": "eb800c2b",
+          "timestamp": "2026-03-14T15:38:34",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [],
+          "alert_count": 0,
+          "has_critical": false
+        }
+      ],
+      "created_at": "2026-03-14T15:38:34",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T15:38:34"
+    },
+    "INC-E4AB27_Adult": {
+      "incident_id": "INC-E4AB27",
+      "victim_name": "Adult",
+      "readings": [
+        {
+          "reading_id": "ece60fbc",
+          "timestamp": "2026-03-14T15:39:20",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [],
+          "alert_count": 0,
+          "has_critical": false
+        }
+      ],
+      "created_at": "2026-03-14T15:39:20",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T15:39:20"
+    },
+    "INC-7D89D4_Infant": {
+      "incident_id": "INC-7D89D4",
+      "victim_name": "Infant",
+      "readings": [
+        {
+          "reading_id": "fc60ef98",
+          "timestamp": "2026-03-14T15:39:24",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [],
+          "alert_count": 0,
+          "has_critical": false
+        }
+      ],
+      "created_at": "2026-03-14T15:39:24",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T15:39:24"
+    },
+    "INC-2699BB_Adult": {
+      "incident_id": "INC-2699BB",
+      "victim_name": "Adult",
+      "readings": [
+        {
+          "reading_id": "cf4ae90b",
+          "timestamp": "2026-03-14T15:39:27",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [],
+          "alert_count": 0,
+          "has_critical": false
+        }
+      ],
+      "created_at": "2026-03-14T15:39:27",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T15:39:27"
+    },
+    "INC-190254_50_people": {
+      "incident_id": "INC-190254",
+      "victim_name": "50 people",
+      "readings": [
+        {
+          "reading_id": "92076394",
+          "timestamp": "2026-03-14T15:39:30",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [],
+          "alert_count": 0,
+          "has_critical": false
+        }
+      ],
+      "created_at": "2026-03-14T15:39:30",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T15:39:30"
+    },
+    "INC-A0A257_Infant": {
+      "incident_id": "INC-A0A257",
+      "victim_name": "Infant",
+      "readings": [
+        {
+          "reading_id": "76b37151",
+          "timestamp": "2026-03-14T15:41:39",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [],
+          "alert_count": 0,
+          "has_critical": false
+        }
+      ],
+      "created_at": "2026-03-14T15:41:39",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T15:41:39"
+    },
+    "INC-525BE0_Adult": {
+      "incident_id": "INC-525BE0",
+      "victim_name": "Adult",
+      "readings": [
+        {
+          "reading_id": "08d29bb7",
+          "timestamp": "2026-03-14T15:45:59",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [],
+          "alert_count": 0,
+          "has_critical": false
+        }
+      ],
+      "created_at": "2026-03-14T15:45:59",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T15:45:59"
+    },
+    "INC-A89BC0_Infant": {
+      "incident_id": "INC-A89BC0",
+      "victim_name": "Infant",
+      "readings": [
+        {
+          "reading_id": "6055a416",
+          "timestamp": "2026-03-14T15:46:02",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [],
+          "alert_count": 0,
+          "has_critical": false
+        }
+      ],
+      "created_at": "2026-03-14T15:46:02",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T15:46:02"
+    },
+    "INC-F21654_Adult": {
+      "incident_id": "INC-F21654",
+      "victim_name": "Adult",
+      "readings": [
+        {
+          "reading_id": "1e908c06",
+          "timestamp": "2026-03-14T15:46:06",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [],
+          "alert_count": 0,
+          "has_critical": false
+        }
+      ],
+      "created_at": "2026-03-14T15:46:06",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T15:46:06"
+    },
+    "INC-3E18ED_50_people": {
+      "incident_id": "INC-3E18ED",
+      "victim_name": "50 people",
+      "readings": [
+        {
+          "reading_id": "5dd1410f",
+          "timestamp": "2026-03-14T15:46:09",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [],
+          "alert_count": 0,
+          "has_critical": false
+        }
+      ],
+      "created_at": "2026-03-14T15:46:09",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T15:46:09"
+    },
+    "INC-671711_Adult": {
+      "incident_id": "INC-671711",
+      "victim_name": "Adult",
+      "readings": [
+        {
+          "reading_id": "ff26af15",
+          "timestamp": "2026-03-14T15:53:18",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [],
+          "alert_count": 0,
+          "has_critical": false
+        }
+      ],
+      "created_at": "2026-03-14T15:53:18",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T15:53:18"
+    },
+    "INC-1F6AA0_Infant": {
+      "incident_id": "INC-1F6AA0",
+      "victim_name": "Infant",
+      "readings": [
+        {
+          "reading_id": "540c3106",
+          "timestamp": "2026-03-14T15:53:21",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [],
+          "alert_count": 0,
+          "has_critical": false
+        }
+      ],
+      "created_at": "2026-03-14T15:53:21",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T15:53:21"
+    },
+    "INC-E39147_Adult": {
+      "incident_id": "INC-E39147",
+      "victim_name": "Adult",
+      "readings": [
+        {
+          "reading_id": "0c7488a7",
+          "timestamp": "2026-03-14T15:53:24",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [],
+          "alert_count": 0,
+          "has_critical": false
+        }
+      ],
+      "created_at": "2026-03-14T15:53:24",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T15:53:24"
+    },
+    "INC-BDF558_50_people": {
+      "incident_id": "INC-BDF558",
+      "victim_name": "50 people",
+      "readings": [
+        {
+          "reading_id": "a202026c",
+          "timestamp": "2026-03-14T15:53:27",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [],
+          "alert_count": 0,
+          "has_critical": false
+        }
+      ],
+      "created_at": "2026-03-14T15:53:27",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T15:53:27"
+    },
+    "INC-59D69B_Adult": {
+      "incident_id": "INC-59D69B",
+      "victim_name": "Adult",
+      "readings": [
+        {
+          "reading_id": "e25b41d6",
+          "timestamp": "2026-03-14T15:53:52",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [],
+          "alert_count": 0,
+          "has_critical": false
+        }
+      ],
+      "created_at": "2026-03-14T15:53:52",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T15:53:52"
+    },
+    "INC-509C68_Infant": {
+      "incident_id": "INC-509C68",
+      "victim_name": "Infant",
+      "readings": [
+        {
+          "reading_id": "77b69ebe",
+          "timestamp": "2026-03-14T15:53:56",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [],
+          "alert_count": 0,
+          "has_critical": false
+        }
+      ],
+      "created_at": "2026-03-14T15:53:56",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T15:53:56"
+    },
+    "INC-E0513E_Adult": {
+      "incident_id": "INC-E0513E",
+      "victim_name": "Adult",
+      "readings": [
+        {
+          "reading_id": "9cec463f",
+          "timestamp": "2026-03-14T15:53:59",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [],
+          "alert_count": 0,
+          "has_critical": false
+        }
+      ],
+      "created_at": "2026-03-14T15:53:59",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T15:53:59"
+    },
+    "INC-1546CD_50_people": {
+      "incident_id": "INC-1546CD",
+      "victim_name": "50 people",
+      "readings": [
+        {
+          "reading_id": "fd10033c",
+          "timestamp": "2026-03-14T15:54:02",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [],
+          "alert_count": 0,
+          "has_critical": false
+        }
+      ],
+      "created_at": "2026-03-14T15:54:02",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T15:54:02"
+    },
+    "INC-9C64C3_50_people": {
+      "incident_id": "INC-9C64C3",
+      "victim_name": "50 people",
+      "readings": [
+        {
+          "reading_id": "007d09f7",
+          "timestamp": "2026-03-14T15:54:50",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [],
+          "alert_count": 0,
+          "has_critical": false
+        }
+      ],
+      "created_at": "2026-03-14T15:54:50",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T15:54:50"
+    },
+    "INC-D03305_50_people": {
+      "incident_id": "INC-D03305",
+      "victim_name": "50 people",
+      "readings": [
+        {
+          "reading_id": "e2aef5d4",
+          "timestamp": "2026-03-14T15:55:26",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [],
+          "alert_count": 0,
+          "has_critical": false
+        }
+      ],
+      "created_at": "2026-03-14T15:55:26",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T15:55:26"
+    },
+    "INC-1E2940_50_people": {
+      "incident_id": "INC-1E2940",
+      "victim_name": "50 people",
+      "readings": [
+        {
+          "reading_id": "8ab6148f",
+          "timestamp": "2026-03-14T15:55:40",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [],
+          "alert_count": 0,
+          "has_critical": false
+        }
+      ],
+      "created_at": "2026-03-14T15:55:40",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T15:55:40"
+    },
+    "INC-6C28D8_Adult": {
+      "incident_id": "INC-6C28D8",
+      "victim_name": "Adult",
+      "readings": [
+        {
+          "reading_id": "8663e18a",
+          "timestamp": "2026-03-14T15:58:27",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [],
+          "alert_count": 0,
+          "has_critical": false
+        }
+      ],
+      "created_at": "2026-03-14T15:58:27",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T15:58:27"
+    },
+    "INC-CE4607_Adult": {
+      "incident_id": "INC-CE4607",
+      "victim_name": "Adult",
+      "readings": [
+        {
+          "reading_id": "fa22c50a",
+          "timestamp": "2026-03-14T15:58:31",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [],
+          "alert_count": 0,
+          "has_critical": false
+        }
+      ],
+      "created_at": "2026-03-14T15:58:31",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T15:58:31"
+    },
+    "INC-D3E726_Adult_male": {
+      "incident_id": "INC-D3E726",
+      "victim_name": "Adult male",
+      "readings": [
+        {
+          "reading_id": "5dbeb594",
+          "timestamp": "2026-03-14T16:02:02",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [],
+          "alert_count": 0,
+          "has_critical": false
+        }
+      ],
+      "created_at": "2026-03-14T16:02:02",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T16:02:02"
+    },
+    "INC-92C2EC_Adult": {
+      "incident_id": "INC-92C2EC",
+      "victim_name": "Adult",
+      "readings": [
+        {
+          "reading_id": "080255c3",
+          "timestamp": "2026-03-14T16:04:41",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [],
+          "alert_count": 0,
+          "has_critical": false
+        }
+      ],
+      "created_at": "2026-03-14T16:04:41",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T16:04:41"
+    },
+    "INC-E6B182_Adult": {
+      "incident_id": "INC-E6B182",
+      "victim_name": "Adult",
+      "readings": [
+        {
+          "reading_id": "309b4768",
+          "timestamp": "2026-03-14T16:15:48",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [],
+          "alert_count": 0,
+          "has_critical": false
+        }
+      ],
+      "created_at": "2026-03-14T16:15:48",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T16:15:48"
+    },
+    "INC-6A1490_30-year-old_man": {
+      "incident_id": "INC-6A1490",
+      "victim_name": "30-year-old man",
+      "readings": [
+        {
+          "reading_id": "7b0b0af3",
+          "timestamp": "2026-03-14T16:22:19",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [],
+          "alert_count": 0,
+          "has_critical": false
+        }
+      ],
+      "created_at": "2026-03-14T16:22:19",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T16:22:19"
+    },
+    "INC-82AC3F_Adult": {
+      "incident_id": "INC-82AC3F",
+      "victim_name": "Adult",
+      "readings": [
+        {
+          "reading_id": "f7dedc27",
+          "timestamp": "2026-03-14T16:22:34",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [],
+          "alert_count": 0,
+          "has_critical": false
+        }
+      ],
+      "created_at": "2026-03-14T16:22:34",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T16:22:34"
+    },
+    "INC-4E5D71_30-year-old_man": {
+      "incident_id": "INC-4E5D71",
+      "victim_name": "30-year-old man",
+      "readings": [
+        {
+          "reading_id": "5bef409b",
+          "timestamp": "2026-03-14T16:23:05",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [],
+          "alert_count": 0,
+          "has_critical": false
+        }
+      ],
+      "created_at": "2026-03-14T16:23:05",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T16:23:05"
+    },
+    "INC-1F833E_30-year-old_man": {
+      "incident_id": "INC-1F833E",
+      "victim_name": "30-year-old man",
+      "readings": [
+        {
+          "reading_id": "3a7c2f3c",
+          "timestamp": "2026-03-14T16:37:54",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [],
+          "alert_count": 0,
+          "has_critical": false
+        }
+      ],
+      "created_at": "2026-03-14T16:37:54",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T16:37:54"
+    },
+    "INC-E4C3BD_75-year-old_woman": {
+      "incident_id": "INC-E4C3BD",
+      "victim_name": "75-year-old woman",
+      "readings": [
+        {
+          "reading_id": "360c09b2",
+          "timestamp": "2026-03-14T16:37:59",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [],
+          "alert_count": 0,
+          "has_critical": false
+        }
+      ],
+      "created_at": "2026-03-14T16:37:59",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T16:37:59"
+    },
+    "INC-D4FD04_Adult": {
+      "incident_id": "INC-D4FD04",
+      "victim_name": "Adult",
+      "readings": [
+        {
+          "reading_id": "b96fc69b",
+          "timestamp": "2026-03-14T16:38:03",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [],
+          "alert_count": 0,
+          "has_critical": false
+        }
+      ],
+      "created_at": "2026-03-14T16:38:03",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T16:38:03"
+    },
+    "INC-4F278B_Adult": {
+      "incident_id": "INC-4F278B",
+      "victim_name": "Adult",
+      "readings": [
+        {
+          "reading_id": "3cc15ae1",
+          "timestamp": "2026-03-14T16:38:07",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [],
+          "alert_count": 0,
+          "has_critical": false
+        }
+      ],
+      "created_at": "2026-03-14T16:38:07",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T16:38:07"
+    },
+    "INC-C9E58A_Infant": {
+      "incident_id": "INC-C9E58A",
+      "victim_name": "Infant",
+      "readings": [
+        {
+          "reading_id": "89cb8374",
+          "timestamp": "2026-03-14T16:38:12",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": 0,
+          "consciousness": "Unresponsive",
+          "notes": "",
+          "alerts": [
+            {
+              "vital": "respiratory_rate",
+              "value": 0,
+              "severity": "CRITICAL",
+              "message": "CRITICAL RESPIRATORY DEPRESSION: RR 0/min \u2014 BVM ready"
+            },
+            {
+              "vital": "consciousness",
+              "value": "Unresponsive",
+              "severity": "CRITICAL",
+              "message": "ALTERED CONSCIOUSNESS: Unresponsive \u2014 Neurological assessment required"
+            }
+          ],
+          "alert_count": 2,
+          "has_critical": true
+        }
+      ],
+      "created_at": "2026-03-14T16:38:12",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T16:38:12"
+    },
+    "INC-7C863E_30_people": {
+      "incident_id": "INC-7C863E",
+      "victim_name": "30 people",
+      "readings": [
+        {
+          "reading_id": "a041c54d",
+          "timestamp": "2026-03-14T16:38:16",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [],
+          "alert_count": 0,
+          "has_critical": false
+        }
+      ],
+      "created_at": "2026-03-14T16:38:16",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T16:38:16"
+    },
+    "INC-92D667_Hiker": {
+      "incident_id": "INC-92D667",
+      "victim_name": "Hiker",
+      "readings": [
+        {
+          "reading_id": "438968cb",
+          "timestamp": "2026-03-14T16:38:21",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [],
+          "alert_count": 0,
+          "has_critical": false
+        }
+      ],
+      "created_at": "2026-03-14T16:38:21",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T16:38:21"
+    },
+    "INC-299F4D_Adult": {
+      "incident_id": "INC-299F4D",
+      "victim_name": "Adult",
+      "readings": [
+        {
+          "reading_id": "03790e58",
+          "timestamp": "2026-03-14T16:38:25",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Unresponsive",
+          "notes": "",
+          "alerts": [
+            {
+              "vital": "consciousness",
+              "value": "Unresponsive",
+              "severity": "CRITICAL",
+              "message": "ALTERED CONSCIOUSNESS: Unresponsive \u2014 Neurological assessment required"
+            }
+          ],
+          "alert_count": 1,
+          "has_critical": true
+        }
+      ],
+      "created_at": "2026-03-14T16:38:25",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T16:38:25"
+    },
+    "INC-AFC068_Adult_male": {
+      "incident_id": "INC-AFC068",
+      "victim_name": "Adult male",
+      "readings": [
+        {
+          "reading_id": "b2d024d3",
+          "timestamp": "2026-03-14T16:55:00",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [],
+          "alert_count": 0,
+          "has_critical": false
+        }
+      ],
+      "created_at": "2026-03-14T16:55:00",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T16:55:00"
+    },
+    "INC-B91AD4_Pregnant_woman": {
+      "incident_id": "INC-B91AD4",
+      "victim_name": "Pregnant woman",
+      "readings": [
+        {
+          "reading_id": "5199b617",
+          "timestamp": "2026-03-14T18:05:34",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [],
+          "alert_count": 0,
+          "has_critical": false
+        }
+      ],
+      "created_at": "2026-03-14T18:05:34",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T18:05:34"
+    },
+    "INC-3EF71E_Pregnant_woman": {
+      "incident_id": "INC-3EF71E",
+      "victim_name": "Pregnant woman",
+      "readings": [
+        {
+          "reading_id": "02867409",
+          "timestamp": "2026-03-14T18:28:15",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [],
+          "alert_count": 0,
+          "has_critical": false
+        }
+      ],
+      "created_at": "2026-03-14T18:28:15",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T18:28:15"
+    },
+    "INC-95DA54_Pregnant_woman": {
+      "incident_id": "INC-95DA54",
+      "victim_name": "Pregnant woman",
+      "readings": [
+        {
+          "reading_id": "b7977352",
+          "timestamp": "2026-03-14T18:34:56",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [],
+          "alert_count": 0,
+          "has_critical": false
+        }
+      ],
+      "created_at": "2026-03-14T18:34:56",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T18:34:56"
+    },
+    "INC-9CD673_Infant": {
+      "incident_id": "INC-9CD673",
+      "victim_name": "Infant",
+      "readings": [
+        {
+          "reading_id": "1f7e3734",
+          "timestamp": "2026-03-14T18:43:56",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": 0,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [
+            {
+              "vital": "respiratory_rate",
+              "value": 0,
+              "severity": "CRITICAL",
+              "message": "CRITICAL RESPIRATORY DEPRESSION: RR 0/min \u2014 BVM ready"
+            }
+          ],
+          "alert_count": 1,
+          "has_critical": true
+        }
+      ],
+      "created_at": "2026-03-14T18:43:56",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T18:43:56"
+    },
+    "INC-C34AC9_Multiple_victims": {
+      "incident_id": "INC-C34AC9",
+      "victim_name": "Multiple victims",
+      "readings": [
+        {
+          "reading_id": "dc7c3cfc",
+          "timestamp": "2026-03-14T18:49:26",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Unresponsive",
+          "notes": "",
+          "alerts": [
+            {
+              "vital": "consciousness",
+              "value": "Unresponsive",
+              "severity": "CRITICAL",
+              "message": "ALTERED CONSCIOUSNESS: Unresponsive \u2014 Neurological assessment required"
+            }
+          ],
+          "alert_count": 1,
+          "has_critical": true
+        }
+      ],
+      "created_at": "2026-03-14T18:49:26",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T18:49:26"
+    },
+    "INC-193AC6_Multiple_victims": {
+      "incident_id": "INC-193AC6",
+      "victim_name": "Multiple victims",
+      "readings": [
+        {
+          "reading_id": "9938e9e0",
+          "timestamp": "2026-03-14T19:06:27",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Unresponsive",
+          "notes": "",
+          "alerts": [
+            {
+              "vital": "consciousness",
+              "value": "Unresponsive",
+              "severity": "CRITICAL",
+              "message": "ALTERED CONSCIOUSNESS: Unresponsive \u2014 Neurological assessment required"
+            }
+          ],
+          "alert_count": 1,
+          "has_critical": true
+        }
+      ],
+      "created_at": "2026-03-14T19:06:27",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T19:06:27"
+    },
+    "INC-4A8C77_Multiple_victims": {
+      "incident_id": "INC-4A8C77",
+      "victim_name": "Multiple victims",
+      "readings": [
+        {
+          "reading_id": "7683e1ae",
+          "timestamp": "2026-03-14T19:08:44",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Unresponsive",
+          "notes": "",
+          "alerts": [
+            {
+              "vital": "consciousness",
+              "value": "Unresponsive",
+              "severity": "CRITICAL",
+              "message": "ALTERED CONSCIOUSNESS: Unresponsive \u2014 Neurological assessment required"
+            }
+          ],
+          "alert_count": 1,
+          "has_critical": true
+        }
+      ],
+      "created_at": "2026-03-14T19:08:44",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T19:08:44"
+    },
+    "INC-52FACE_Multiple_victims": {
+      "incident_id": "INC-52FACE",
+      "victim_name": "Multiple victims",
+      "readings": [
+        {
+          "reading_id": "b944d765",
+          "timestamp": "2026-03-14T19:09:10",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Unresponsive",
+          "notes": "",
+          "alerts": [
+            {
+              "vital": "consciousness",
+              "value": "Unresponsive",
+              "severity": "CRITICAL",
+              "message": "ALTERED CONSCIOUSNESS: Unresponsive \u2014 Neurological assessment required"
+            }
+          ],
+          "alert_count": 1,
+          "has_critical": true
+        }
+      ],
+      "created_at": "2026-03-14T19:09:10",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T19:09:10"
+    },
+    "INC-EF101A_Multiple_victims": {
+      "incident_id": "INC-EF101A",
+      "victim_name": "Multiple victims",
+      "readings": [
+        {
+          "reading_id": "5f61f02a",
+          "timestamp": "2026-03-14T19:19:04",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Unresponsive",
+          "notes": "",
+          "alerts": [
+            {
+              "vital": "consciousness",
+              "value": "Unresponsive",
+              "severity": "CRITICAL",
+              "message": "ALTERED CONSCIOUSNESS: Unresponsive \u2014 Neurological assessment required"
+            }
+          ],
+          "alert_count": 1,
+          "has_critical": true
+        }
+      ],
+      "created_at": "2026-03-14T19:19:04",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T19:19:04"
+    },
+    "INC-671D40_Multiple_victims": {
+      "incident_id": "INC-671D40",
+      "victim_name": "Multiple victims",
+      "readings": [
+        {
+          "reading_id": "84d6a581",
+          "timestamp": "2026-03-14T19:19:50",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Unresponsive",
+          "notes": "",
+          "alerts": [
+            {
+              "vital": "consciousness",
+              "value": "Unresponsive",
+              "severity": "CRITICAL",
+              "message": "ALTERED CONSCIOUSNESS: Unresponsive \u2014 Neurological assessment required"
+            }
+          ],
+          "alert_count": 1,
+          "has_critical": true
+        }
+      ],
+      "created_at": "2026-03-14T19:19:50",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T19:19:50"
+    },
+    "INC-DCFE25_Multiple_victims": {
+      "incident_id": "INC-DCFE25",
+      "victim_name": "Multiple victims",
+      "readings": [
+        {
+          "reading_id": "569383b9",
+          "timestamp": "2026-03-14T19:21:16",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Unresponsive",
+          "notes": "",
+          "alerts": [
+            {
+              "vital": "consciousness",
+              "value": "Unresponsive",
+              "severity": "CRITICAL",
+              "message": "ALTERED CONSCIOUSNESS: Unresponsive \u2014 Neurological assessment required"
+            }
+          ],
+          "alert_count": 1,
+          "has_critical": true
+        }
+      ],
+      "created_at": "2026-03-14T19:21:16",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T19:21:16"
+    },
+    "INC-A801BB_Multiple_victims": {
+      "incident_id": "INC-A801BB",
+      "victim_name": "Multiple victims",
+      "readings": [
+        {
+          "reading_id": "7ab3073f",
+          "timestamp": "2026-03-14T19:22:23",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Unresponsive",
+          "notes": "",
+          "alerts": [
+            {
+              "vital": "consciousness",
+              "value": "Unresponsive",
+              "severity": "CRITICAL",
+              "message": "ALTERED CONSCIOUSNESS: Unresponsive \u2014 Neurological assessment required"
+            }
+          ],
+          "alert_count": 1,
+          "has_critical": true
+        }
+      ],
+      "created_at": "2026-03-14T19:22:23",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T19:22:23"
+    },
+    "INC-BF8E95_Multiple_victims": {
+      "incident_id": "INC-BF8E95",
+      "victim_name": "Multiple victims",
+      "readings": [
+        {
+          "reading_id": "5712e656",
+          "timestamp": "2026-03-14T19:30:01",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Unresponsive",
+          "notes": "",
+          "alerts": [
+            {
+              "vital": "consciousness",
+              "value": "Unresponsive",
+              "severity": "CRITICAL",
+              "message": "ALTERED CONSCIOUSNESS: Unresponsive \u2014 Neurological assessment required"
+            }
+          ],
+          "alert_count": 1,
+          "has_critical": true
+        }
+      ],
+      "created_at": "2026-03-14T19:30:01",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T19:30:01"
+    },
+    "INC-4BD32F_Multiple_victims": {
+      "incident_id": "INC-4BD32F",
+      "victim_name": "Multiple victims",
+      "readings": [
+        {
+          "reading_id": "dd62de7c",
+          "timestamp": "2026-03-14T19:32:03",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Unresponsive",
+          "notes": "",
+          "alerts": [
+            {
+              "vital": "consciousness",
+              "value": "Unresponsive",
+              "severity": "CRITICAL",
+              "message": "ALTERED CONSCIOUSNESS: Unresponsive \u2014 Neurological assessment required"
+            }
+          ],
+          "alert_count": 1,
+          "has_critical": true
+        }
+      ],
+      "created_at": "2026-03-14T19:32:03",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T19:32:03"
+    },
+    "INC-065BF2_Multiple_victims": {
+      "incident_id": "INC-065BF2",
+      "victim_name": "Multiple victims",
+      "readings": [
+        {
+          "reading_id": "f78ad90b",
+          "timestamp": "2026-03-14T19:32:37",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Unresponsive",
+          "notes": "",
+          "alerts": [
+            {
+              "vital": "consciousness",
+              "value": "Unresponsive",
+              "severity": "CRITICAL",
+              "message": "ALTERED CONSCIOUSNESS: Unresponsive \u2014 Neurological assessment required"
+            }
+          ],
+          "alert_count": 1,
+          "has_critical": true
+        }
+      ],
+      "created_at": "2026-03-14T19:32:37",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T19:32:37"
+    },
+    "INC-F8A22B_Multiple_victims": {
+      "incident_id": "INC-F8A22B",
+      "victim_name": "Multiple victims",
+      "readings": [
+        {
+          "reading_id": "d6bcdc5e",
+          "timestamp": "2026-03-14T19:32:59",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Unresponsive",
+          "notes": "",
+          "alerts": [
+            {
+              "vital": "consciousness",
+              "value": "Unresponsive",
+              "severity": "CRITICAL",
+              "message": "ALTERED CONSCIOUSNESS: Unresponsive \u2014 Neurological assessment required"
+            }
+          ],
+          "alert_count": 1,
+          "has_critical": true
+        }
+      ],
+      "created_at": "2026-03-14T19:32:59",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T19:32:59"
+    },
+    "INC-57A1CA_Multiple_victims": {
+      "incident_id": "INC-57A1CA",
+      "victim_name": "Multiple victims",
+      "readings": [
+        {
+          "reading_id": "88d6bf98",
+          "timestamp": "2026-03-14T20:13:17",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Unresponsive",
+          "notes": "",
+          "alerts": [
+            {
+              "vital": "consciousness",
+              "value": "Unresponsive",
+              "severity": "CRITICAL",
+              "message": "ALTERED CONSCIOUSNESS: Unresponsive \u2014 Neurological assessment required"
+            }
+          ],
+          "alert_count": 1,
+          "has_critical": true
+        }
+      ],
+      "created_at": "2026-03-14T20:13:17",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T20:13:17"
+    },
+    "INC-5F6AFB_Multiple_victims": {
+      "incident_id": "INC-5F6AFB",
+      "victim_name": "Multiple victims",
+      "readings": [
+        {
+          "reading_id": "6df86adc",
+          "timestamp": "2026-03-14T20:13:57",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Unresponsive",
+          "notes": "",
+          "alerts": [
+            {
+              "vital": "consciousness",
+              "value": "Unresponsive",
+              "severity": "CRITICAL",
+              "message": "ALTERED CONSCIOUSNESS: Unresponsive \u2014 Neurological assessment required"
+            }
+          ],
+          "alert_count": 1,
+          "has_critical": true
+        }
+      ],
+      "created_at": "2026-03-14T20:13:57",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T20:13:57"
+    },
+    "INC-360443_Multiple_victims": {
+      "incident_id": "INC-360443",
+      "victim_name": "Multiple victims",
+      "readings": [
+        {
+          "reading_id": "8a2b0e61",
+          "timestamp": "2026-03-14T20:14:28",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Unresponsive",
+          "notes": "",
+          "alerts": [
+            {
+              "vital": "consciousness",
+              "value": "Unresponsive",
+              "severity": "CRITICAL",
+              "message": "ALTERED CONSCIOUSNESS: Unresponsive \u2014 Neurological assessment required"
+            }
+          ],
+          "alert_count": 1,
+          "has_critical": true
+        }
+      ],
+      "created_at": "2026-03-14T20:14:28",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T20:14:28"
+    },
+    "INC-0F9DCB_Multiple_victims": {
+      "incident_id": "INC-0F9DCB",
+      "victim_name": "Multiple victims",
+      "readings": [
+        {
+          "reading_id": "34b10123",
+          "timestamp": "2026-03-14T20:14:44",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Unresponsive",
+          "notes": "",
+          "alerts": [
+            {
+              "vital": "consciousness",
+              "value": "Unresponsive",
+              "severity": "CRITICAL",
+              "message": "ALTERED CONSCIOUSNESS: Unresponsive \u2014 Neurological assessment required"
+            }
+          ],
+          "alert_count": 1,
+          "has_critical": true
+        }
+      ],
+      "created_at": "2026-03-14T20:14:44",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T20:14:44"
+    },
+    "INC-B71E88_Multiple_victims": {
+      "incident_id": "INC-B71E88",
+      "victim_name": "Multiple victims",
+      "readings": [
+        {
+          "reading_id": "2863f59f",
+          "timestamp": "2026-03-14T20:15:42",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Unresponsive",
+          "notes": "",
+          "alerts": [
+            {
+              "vital": "consciousness",
+              "value": "Unresponsive",
+              "severity": "CRITICAL",
+              "message": "ALTERED CONSCIOUSNESS: Unresponsive \u2014 Neurological assessment required"
+            }
+          ],
+          "alert_count": 1,
+          "has_critical": true
+        }
+      ],
+      "created_at": "2026-03-14T20:15:42",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T20:15:42"
+    },
+    "INC-624A5C_Multiple_victims": {
+      "incident_id": "INC-624A5C",
+      "victim_name": "Multiple victims",
+      "readings": [
+        {
+          "reading_id": "d9ab11bd",
+          "timestamp": "2026-03-14T20:16:58",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Unresponsive",
+          "notes": "",
+          "alerts": [
+            {
+              "vital": "consciousness",
+              "value": "Unresponsive",
+              "severity": "CRITICAL",
+              "message": "ALTERED CONSCIOUSNESS: Unresponsive \u2014 Neurological assessment required"
+            }
+          ],
+          "alert_count": 1,
+          "has_critical": true
+        }
+      ],
+      "created_at": "2026-03-14T20:16:58",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T20:16:58"
+    },
+    "INC-6A0971_Multiple_victims": {
+      "incident_id": "INC-6A0971",
+      "victim_name": "Multiple victims",
+      "readings": [
+        {
+          "reading_id": "3a548765",
+          "timestamp": "2026-03-14T20:17:41",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Unresponsive",
+          "notes": "",
+          "alerts": [
+            {
+              "vital": "consciousness",
+              "value": "Unresponsive",
+              "severity": "CRITICAL",
+              "message": "ALTERED CONSCIOUSNESS: Unresponsive \u2014 Neurological assessment required"
+            }
+          ],
+          "alert_count": 1,
+          "has_critical": true
+        }
+      ],
+      "created_at": "2026-03-14T20:17:41",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T20:17:41"
+    },
+    "INC-92CD60_Multiple_victims": {
+      "incident_id": "INC-92CD60",
+      "victim_name": "Multiple victims",
+      "readings": [
+        {
+          "reading_id": "07fac76c",
+          "timestamp": "2026-03-14T20:18:00",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Unresponsive",
+          "notes": "",
+          "alerts": [
+            {
+              "vital": "consciousness",
+              "value": "Unresponsive",
+              "severity": "CRITICAL",
+              "message": "ALTERED CONSCIOUSNESS: Unresponsive \u2014 Neurological assessment required"
+            }
+          ],
+          "alert_count": 1,
+          "has_critical": true
+        }
+      ],
+      "created_at": "2026-03-14T20:18:00",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T20:18:00"
+    },
+    "INC-432E0D_Elderly_woman": {
+      "incident_id": "INC-432E0D",
+      "victim_name": "Elderly woman",
+      "readings": [
+        {
+          "reading_id": "dbb92772",
+          "timestamp": "2026-03-14T21:39:24",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Voice",
+          "notes": "",
+          "alerts": [],
+          "alert_count": 0,
+          "has_critical": false
+        }
+      ],
+      "created_at": "2026-03-14T21:39:24",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T21:39:24"
+    },
+    "INC-D3F89F_Elderly_woman": {
+      "incident_id": "INC-D3F89F",
+      "victim_name": "Elderly woman",
+      "readings": [
+        {
+          "reading_id": "4724ced9",
+          "timestamp": "2026-03-14T21:40:23",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Voice",
+          "notes": "",
+          "alerts": [],
+          "alert_count": 0,
+          "has_critical": false
+        }
+      ],
+      "created_at": "2026-03-14T21:40:23",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T21:40:23"
+    },
+    "INC-69D18F_Elderly_woman": {
+      "incident_id": "INC-69D18F",
+      "victim_name": "Elderly woman",
+      "readings": [
+        {
+          "reading_id": "757bd103",
+          "timestamp": "2026-03-14T21:41:08",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Voice",
+          "notes": "",
+          "alerts": [],
+          "alert_count": 0,
+          "has_critical": false
+        }
+      ],
+      "created_at": "2026-03-14T21:41:08",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T21:41:08"
+    },
+    "INC-C1B61F_Pregnant_woman": {
+      "incident_id": "INC-C1B61F",
+      "victim_name": "Pregnant woman",
+      "readings": [
+        {
+          "reading_id": "6dd180b4",
+          "timestamp": "2026-03-14T21:41:39",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [],
+          "alert_count": 0,
+          "has_critical": false
+        }
+      ],
+      "created_at": "2026-03-14T21:41:39",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T21:41:39"
+    },
+    "INC-C59919_Unknown_person": {
+      "incident_id": "INC-C59919",
+      "victim_name": "Unknown person",
+      "readings": [
+        {
+          "reading_id": "e951ea73",
+          "timestamp": "2026-03-14T22:18:56",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [],
+          "alert_count": 0,
+          "has_critical": false
+        }
+      ],
+      "created_at": "2026-03-14T22:18:56",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T22:18:56"
+    },
+    "INC-AE434F_Infant": {
+      "incident_id": "INC-AE434F",
+      "victim_name": "Infant",
+      "readings": [
+        {
+          "reading_id": "98ad09c2",
+          "timestamp": "2026-03-14T22:55:34",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": 0,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [
+            {
+              "vital": "respiratory_rate",
+              "value": 0,
+              "severity": "CRITICAL",
+              "message": "CRITICAL RESPIRATORY DEPRESSION: RR 0/min \u2014 BVM ready"
+            }
+          ],
+          "alert_count": 1,
+          "has_critical": true
+        }
+      ],
+      "created_at": "2026-03-14T22:55:34",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T22:55:34"
+    },
+    "INC-49EFCE_Infant": {
+      "incident_id": "INC-49EFCE",
+      "victim_name": "Infant",
+      "readings": [
+        {
+          "reading_id": "20963997",
+          "timestamp": "2026-03-14T22:59:07",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": 0,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [
+            {
+              "vital": "respiratory_rate",
+              "value": 0,
+              "severity": "CRITICAL",
+              "message": "CRITICAL RESPIRATORY DEPRESSION: RR 0/min \u2014 BVM ready"
+            }
+          ],
+          "alert_count": 1,
+          "has_critical": true
+        }
+      ],
+      "created_at": "2026-03-14T22:59:07",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T22:59:07"
+    },
+    "INC-D75D1B_Infant": {
+      "incident_id": "INC-D75D1B",
+      "victim_name": "Infant",
+      "readings": [
+        {
+          "reading_id": "041282d7",
+          "timestamp": "2026-03-14T23:06:13",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": 0,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [
+            {
+              "vital": "respiratory_rate",
+              "value": 0,
+              "severity": "CRITICAL",
+              "message": "CRITICAL RESPIRATORY DEPRESSION: RR 0/min \u2014 BVM ready"
+            }
+          ],
+          "alert_count": 1,
+          "has_critical": true
+        }
+      ],
+      "created_at": "2026-03-14T23:06:13",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T23:06:13"
+    },
+    "INC-C3A9DE_Infant": {
+      "incident_id": "INC-C3A9DE",
+      "victim_name": "Infant",
+      "readings": [
+        {
+          "reading_id": "9c00e239",
+          "timestamp": "2026-03-14T23:06:37",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": 0,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [
+            {
+              "vital": "respiratory_rate",
+              "value": 0,
+              "severity": "CRITICAL",
+              "message": "CRITICAL RESPIRATORY DEPRESSION: RR 0/min \u2014 BVM ready"
+            }
+          ],
+          "alert_count": 1,
+          "has_critical": true
+        }
+      ],
+      "created_at": "2026-03-14T23:06:37",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T23:06:37"
+    },
+    "INC-A1E452_Infant": {
+      "incident_id": "INC-A1E452",
+      "victim_name": "Infant",
+      "readings": [
+        {
+          "reading_id": "45b0aed2",
+          "timestamp": "2026-03-14T23:10:53",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": 0,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [
+            {
+              "vital": "respiratory_rate",
+              "value": 0,
+              "severity": "CRITICAL",
+              "message": "CRITICAL RESPIRATORY DEPRESSION: RR 0/min \u2014 BVM ready"
+            }
+          ],
+          "alert_count": 1,
+          "has_critical": true
+        }
+      ],
+      "created_at": "2026-03-14T23:10:53",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T23:10:53"
+    },
+    "INC-1019D1_Infant": {
+      "incident_id": "INC-1019D1",
+      "victim_name": "Infant",
+      "readings": [
+        {
+          "reading_id": "194001f8",
+          "timestamp": "2026-03-14T23:11:52",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": 0,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [
+            {
+              "vital": "respiratory_rate",
+              "value": 0,
+              "severity": "CRITICAL",
+              "message": "CRITICAL RESPIRATORY DEPRESSION: RR 0/min \u2014 BVM ready"
+            }
+          ],
+          "alert_count": 1,
+          "has_critical": true
+        }
+      ],
+      "created_at": "2026-03-14T23:11:52",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T23:11:52"
+    },
+    "INC-BF735E_Unknown_person": {
+      "incident_id": "INC-BF735E",
+      "victim_name": "Unknown person",
+      "readings": [
+        {
+          "reading_id": "7cb589fd",
+          "timestamp": "2026-03-14T23:28:59",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [],
+          "alert_count": 0,
+          "has_critical": false
+        }
+      ],
+      "created_at": "2026-03-14T23:28:59",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T23:28:59"
+    },
+    "INC-51F8CA_Multiple_victims": {
+      "incident_id": "INC-51F8CA",
+      "victim_name": "Multiple victims",
+      "readings": [
+        {
+          "reading_id": "1d34a3a4",
+          "timestamp": "2026-03-14T23:37:19",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Unresponsive",
+          "notes": "",
+          "alerts": [
+            {
+              "vital": "consciousness",
+              "value": "Unresponsive",
+              "severity": "CRITICAL",
+              "message": "ALTERED CONSCIOUSNESS: Unresponsive \u2014 Neurological assessment required"
+            }
+          ],
+          "alert_count": 1,
+          "has_critical": true
+        }
+      ],
+      "created_at": "2026-03-14T23:37:19",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T23:37:19"
+    },
+    "INC-1B29BF_Multiple_victims": {
+      "incident_id": "INC-1B29BF",
+      "victim_name": "Multiple victims",
+      "readings": [
+        {
+          "reading_id": "a3856ddd",
+          "timestamp": "2026-03-14T23:44:21",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Unresponsive",
+          "notes": "",
+          "alerts": [
+            {
+              "vital": "consciousness",
+              "value": "Unresponsive",
+              "severity": "CRITICAL",
+              "message": "ALTERED CONSCIOUSNESS: Unresponsive \u2014 Neurological assessment required"
+            }
+          ],
+          "alert_count": 1,
+          "has_critical": true
+        }
+      ],
+      "created_at": "2026-03-14T23:44:21",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-14T23:44:21"
+    },
+    "INC-672965_Multiple_victims": {
+      "incident_id": "INC-672965",
+      "victim_name": "Multiple victims",
+      "readings": [
+        {
+          "reading_id": "58888492",
+          "timestamp": "2026-03-15T00:13:08",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": null,
+          "consciousness": "Unresponsive",
+          "notes": "",
+          "alerts": [
+            {
+              "vital": "consciousness",
+              "value": "Unresponsive",
+              "severity": "CRITICAL",
+              "message": "ALTERED CONSCIOUSNESS: Unresponsive \u2014 Neurological assessment required"
+            }
+          ],
+          "alert_count": 1,
+          "has_critical": true
+        }
+      ],
+      "created_at": "2026-03-15T00:13:08",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-15T00:13:08"
+    },
+    "INC-6F5B16_Infant": {
+      "incident_id": "INC-6F5B16",
+      "victim_name": "Infant",
+      "readings": [
+        {
+          "reading_id": "ee504277",
+          "timestamp": "2026-03-15T00:22:20",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": 0,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [
+            {
+              "vital": "respiratory_rate",
+              "value": 0,
+              "severity": "CRITICAL",
+              "message": "CRITICAL RESPIRATORY DEPRESSION: RR 0/min \u2014 BVM ready"
+            }
+          ],
+          "alert_count": 1,
+          "has_critical": true
+        }
+      ],
+      "created_at": "2026-03-15T00:22:20",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-15T00:22:20"
+    },
+    "INC-916B67_Infant": {
+      "incident_id": "INC-916B67",
+      "victim_name": "Infant",
+      "readings": [
+        {
+          "reading_id": "ab1bc9f0",
+          "timestamp": "2026-03-15T00:31:59",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": 0,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [
+            {
+              "vital": "respiratory_rate",
+              "value": 0,
+              "severity": "CRITICAL",
+              "message": "CRITICAL RESPIRATORY DEPRESSION: RR 0/min \u2014 BVM ready"
+            }
+          ],
+          "alert_count": 1,
+          "has_critical": true
+        }
+      ],
+      "created_at": "2026-03-15T00:31:59",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-15T00:31:59"
+    },
+    "INC-E2B3B8_Infant": {
+      "incident_id": "INC-E2B3B8",
+      "victim_name": "Infant",
+      "readings": [
+        {
+          "reading_id": "d6cdf3a9",
+          "timestamp": "2026-03-15T00:32:38",
+          "pulse_bpm": null,
+          "systolic_bp": null,
+          "diastolic_bp": null,
+          "spo2_percent": null,
+          "respiratory_rate": 0,
+          "consciousness": "Alert",
+          "notes": "",
+          "alerts": [
+            {
+              "vital": "respiratory_rate",
+              "value": 0,
+              "severity": "CRITICAL",
+              "message": "CRITICAL RESPIRATORY DEPRESSION: RR 0/min \u2014 BVM ready"
+            }
+          ],
+          "alert_count": 1,
+          "has_critical": true
+        }
+      ],
+      "created_at": "2026-03-15T00:32:38",
+      "deterioration_status": {
+        "deteriorating": false,
+        "trend": "insufficient_data"
+      },
+      "last_updated": "2026-03-15T00:32:38"
+    }
+  }
+}

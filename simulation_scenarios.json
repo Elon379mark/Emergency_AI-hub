@@ -1,0 +1,53 @@
+[
+  {
+    "id": "SIM-011",
+    "name": "Nuclear Plant Radiation Leak",
+    "description": "Low-level radiation leak at nuclear facility, workers evacuating.",
+    "transcription": "Radiation alarm triggered at Zone C of nuclear plant. 6 workers showing symptoms of radiation exposure — nausea, vomiting. Plant safety officer reports dosimeter readings above safe levels. Full evacuation underway. Estimated 50 personnel in facility. Request radiation medical teams and decontamination unit.",
+    "expected_severity": "CRITICAL",
+    "expected_teams": 4,
+    "disaster_type": "Radiation",
+    "difficulty": "HARD",
+    "time_limit_seconds": 90,
+    "scoring": {
+      "correct_severity": 30,
+      "correct_team_count": 20,
+      "speed_bonus_under_60s": 25,
+      "speed_bonus_under_90s": 10
+    }
+  },
+  {
+    "id": "SIM-012",
+    "name": "Crowd Crush — Stadium Event",
+    "description": "Crowd crush at sports stadium exit, multiple injuries.",
+    "transcription": "Crowd crush at East Gate of National Stadium after concert ended. Approximately 8 people down, 3 confirmed unconscious. Multiple reports of broken ribs and difficulty breathing. Crowd still pressing, medical access blocked. Security requesting immediate assistance. Possible 200 people panicking.",
+    "expected_severity": "CRITICAL",
+    "expected_teams": 5,
+    "disaster_type": "Trauma",
+    "difficulty": "HARD",
+    "time_limit_seconds": 90,
+    "scoring": {
+      "correct_severity": 30,
+      "correct_team_count": 20,
+      "speed_bonus_under_60s": 25,
+      "speed_bonus_under_90s": 10
+    }
+  },
+  {
+    "id": "SIM-013",
+    "name": "Pediatric Mass Poisoning — School Cafeteria",
+    "description": "Food poisoning outbreak in school cafeteria, 25 children affected.",
+    "transcription": "Mass poisoning suspected at Wellington Primary School. 25 children aged 6-12 showing severe vomiting, diarrhea and abdominal pain after lunch. Two children are pale and lethargic. Teachers suspect something in the food. Kitchen staff also unwell. Request pediatric teams and toxicology response.",
+    "expected_severity": "HIGH",
+    "expected_teams": 3,
+    "disaster_type": "Toxicological",
+    "difficulty": "MEDIUM",
+    "time_limit_seconds": 120,
+    "scoring": {
+      "correct_severity": 25,
+      "correct_team_count": 20,
+      "speed_bonus_under_60s": 20,
+      "speed_bonus_under_90s": 10
+    }
+  }
+]

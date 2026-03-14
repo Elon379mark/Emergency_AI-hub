@@ -1,0 +1,1074 @@
+[
+  {
+    "timestamp": "2026-03-13T03:34:08",
+    "transcription_preview": "bus overturned on highway, 12 injured, 3 unconcious and not ",
+    "latency_ms": 4015.1,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-13T03:44:59",
+    "transcription_preview": "bus accident with 14 injured and 3 got serious cardiac arres",
+    "latency_ms": 3265.0,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-13T19:20:12",
+    "transcription_preview": "'Bus accident near bridge with 12 injured people, 3 are unco",
+    "latency_ms": 3242.6,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-13T19:22:27",
+    "transcription_preview": "'Bus accident near bridge with 12 injured people, 3 are unco",
+    "latency_ms": 3112.0,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-13T19:57:37",
+    "transcription_preview": "elderly man vomiting blood",
+    "latency_ms": 3339.9,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-13T19:58:07",
+    "transcription_preview": "elderly man vomiting blood",
+    "latency_ms": 3179.7,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-13T20:02:36",
+    "transcription_preview": "Elderly man collapsed at home, unconscious, no pulse, having",
+    "latency_ms": 3277.0,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-13T20:03:29",
+    "transcription_preview": "Major car crash on the highway. Woman trapped inside vehicle",
+    "latency_ms": 3025.8,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-13T20:07:55",
+    "transcription_preview": "Elderly man with severe chest pain and sweating",
+    "latency_ms": 3177.1,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-13T21:06:29",
+    "transcription_preview": "Elderly man with severe chest pain and sweating",
+    "latency_ms": 3331.3,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-13T21:06:58",
+    "transcription_preview": "Elderly man with severe chest pain and sweating",
+    "latency_ms": 3419.9,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-13T21:07:06",
+    "transcription_preview": "Elderly man with severe chest pain and sweating",
+    "latency_ms": 3236.4,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-13T21:07:18",
+    "transcription_preview": "Elderly man with severe chest pain and sweating",
+    "latency_ms": 3174.1,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-13T21:33:45",
+    "transcription_preview": "Bus accident near bridge with 12 injured people, 3 are uncon",
+    "latency_ms": 3534.1,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-13T21:39:27",
+    "transcription_preview": "Bus accident near bridge with 12 injured people, 3 are uncon",
+    "latency_ms": 3144.9,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-13T21:41:37",
+    "transcription_preview": "Bus accident near bridge with 12 injured people, 3 are uncon",
+    "latency_ms": 3157.6,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-13T21:42:50",
+    "transcription_preview": "Bus accident near bridge with 12 injured people, 3 are uncon",
+    "latency_ms": 3088.3,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T12:03:05",
+    "transcription_preview": "An elder remain fell to fall from a building in my neighborh",
+    "latency_ms": 3750.9,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T12:03:48",
+    "transcription_preview": "An elder remain fell to fall from a building in my neighborh",
+    "latency_ms": 3843.1,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T12:05:58",
+    "transcription_preview": "Bus overt on highway 12 injured 3 unconscious and not ready",
+    "latency_ms": 4127.0,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T12:10:41",
+    "transcription_preview": "Near IIT Dharwat permanent campus.",
+    "latency_ms": 3501.8,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T12:13:23",
+    "transcription_preview": "young girl fell and broke her arm near IIT DHarwad campus",
+    "latency_ms": 3452.4,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T12:20:09",
+    "transcription_preview": "Young girl fell and broke her arm near the school\nplayground",
+    "latency_ms": 3352.3,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T12:23:22",
+    "transcription_preview": "Person is a minor cut on finger at home, small bleeding.",
+    "latency_ms": 3842.2,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T12:26:14",
+    "transcription_preview": "Person has a minor cut on finger at home, small bleeding.",
+    "latency_ms": 3452.0,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T12:39:31",
+    "transcription_preview": "She fell down the stairs",
+    "latency_ms": 3568.9,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T12:39:54",
+    "transcription_preview": "A 3-month-old baby is not breathing",
+    "latency_ms": 3577.1,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T12:40:19",
+    "transcription_preview": "A 3-month-old baby is not breathing",
+    "latency_ms": 3673.2,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T12:40:41",
+    "transcription_preview": "Pregnant woman having severe abdominal pain and bleeding",
+    "latency_ms": 3521.1,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T12:40:55",
+    "transcription_preview": "Pregnant woman having severe abdominal pain and bleeding",
+    "latency_ms": 3426.9,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T12:41:23",
+    "transcription_preview": "A 3-month-old baby is not breathing",
+    "latency_ms": 3573.8,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T12:41:48",
+    "transcription_preview": "A bus driver had a heart attack while driving on the highway",
+    "latency_ms": 3595.4,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T14:44:11",
+    "transcription_preview": "A person in my neighborhood has a small wound on her finger.",
+    "latency_ms": 3248.1,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T14:56:35",
+    "transcription_preview": "A person in my neighborhood has a small wound on her finger.",
+    "latency_ms": 3117.7,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T14:57:42",
+    "transcription_preview": "In my neighbour, a person has a small injury in his wrist an",
+    "latency_ms": 3207.9,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T15:02:06",
+    "transcription_preview": "Adult man with stab wound and heavy blood loss near the\nmark",
+    "latency_ms": 3284.2,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T15:04:21",
+    "transcription_preview": "Child with burn on hands from fire inside the house",
+    "latency_ms": 3260.1,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T15:06:25",
+    "transcription_preview": "My neighbour had a small cut on a child's finger and had a l",
+    "latency_ms": 3135.1,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T15:07:00",
+    "transcription_preview": "A person in my neighborhood has a small wound on her finger.",
+    "latency_ms": 3602.0,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T15:11:06",
+    "transcription_preview": "Worker exposed to chemical spill with burns on arms at indus",
+    "latency_ms": 3150.2,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T15:24:20",
+    "transcription_preview": "Worker exposed to chemical spill with burns on arms at indus",
+    "latency_ms": 3586.0,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T15:24:55",
+    "transcription_preview": "Adult male unconscious no pulse possible cardiac arrest at\ns",
+    "latency_ms": 3124.9,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T15:25:39",
+    "transcription_preview": "\"Middle aged woman with severe chest pain sweating and left\n",
+    "latency_ms": 3139.8,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T15:26:29",
+    "transcription_preview": "Young boy choking on food cannot breathe at home",
+    "latency_ms": 3168.3,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T15:27:47",
+    "transcription_preview": "Young boy choking on food cannot breathe at home",
+    "latency_ms": 3335.0,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T15:28:19",
+    "transcription_preview": "Fire in office building, multiple employees trapped on upper",
+    "latency_ms": 3163.3,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T15:31:59",
+    "transcription_preview": "A person has severe bleeding.",
+    "latency_ms": 6162.1,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T15:32:57",
+    "transcription_preview": "A person has severe bleeding.",
+    "latency_ms": 3156.8,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T15:34:23",
+    "transcription_preview": "Elderly woman pulled from flood water shivering confused\nand",
+    "latency_ms": 2977.6,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T15:38:11",
+    "transcription_preview": "A person has severe bleeding.",
+    "latency_ms": 3043.0,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T15:38:28",
+    "transcription_preview": "A baby has severe bleeding.",
+    "latency_ms": 3126.6,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T15:38:31",
+    "transcription_preview": "A person has severe bleeding and is trapped under a collapse",
+    "latency_ms": 2978.7,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T15:38:34",
+    "transcription_preview": "50 people have minor cuts.",
+    "latency_ms": 3002.2,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T15:39:10",
+    "transcription_preview": "A person has severe bleeding.",
+    "latency_ms": 3120.1,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T15:39:24",
+    "transcription_preview": "A baby has severe bleeding.",
+    "latency_ms": 3135.9,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T15:39:27",
+    "transcription_preview": "A person has severe bleeding and is trapped under a collapse",
+    "latency_ms": 2998.7,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T15:39:30",
+    "transcription_preview": "50 people have minor cuts.",
+    "latency_ms": 2996.7,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T15:41:39",
+    "transcription_preview": "A baby have severe injury",
+    "latency_ms": 6114.2,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T15:44:32",
+    "transcription_preview": "A person has severe bleeding.",
+    "latency_ms": 3317.1,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T15:45:50",
+    "transcription_preview": "A person has severe bleeding.",
+    "latency_ms": 3293.9,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T15:46:02",
+    "transcription_preview": "A baby has severe bleeding.",
+    "latency_ms": 3074.2,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T15:46:06",
+    "transcription_preview": "A person has severe bleeding and is trapped under a collapse",
+    "latency_ms": 3192.4,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T15:46:09",
+    "transcription_preview": "50 people have minor cuts.",
+    "latency_ms": 3118.0,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T15:53:08",
+    "transcription_preview": "A person has severe bleeding.",
+    "latency_ms": 3103.9,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T15:53:21",
+    "transcription_preview": "A baby has severe bleeding.",
+    "latency_ms": 3120.9,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T15:53:24",
+    "transcription_preview": "A person has severe bleeding and is trapped under a collapse",
+    "latency_ms": 3016.8,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T15:53:27",
+    "transcription_preview": "50 people have minor cuts.",
+    "latency_ms": 3047.6,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T15:53:43",
+    "transcription_preview": "A person has severe bleeding.",
+    "latency_ms": 3126.0,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T15:53:56",
+    "transcription_preview": "A baby has severe bleeding.",
+    "latency_ms": 2973.9,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T15:53:59",
+    "transcription_preview": "A person has severe bleeding and is trapped under a collapse",
+    "latency_ms": 3088.5,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T15:54:02",
+    "transcription_preview": "50 people have minor cuts.",
+    "latency_ms": 3061.4,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T15:54:50",
+    "transcription_preview": "50 people have minor cuts.",
+    "latency_ms": 2972.2,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T15:55:26",
+    "transcription_preview": "50 people have minor cuts.",
+    "latency_ms": 3187.1,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T15:55:40",
+    "transcription_preview": "50 people have minor cuts.",
+    "latency_ms": 3115.0,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T15:58:17",
+    "transcription_preview": "A person in my neighborhood has a small wound on her finger.",
+    "latency_ms": 3055.6,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T15:58:31",
+    "transcription_preview": "A person in my neighborhood has a small wound on her finger.",
+    "latency_ms": 3021.4,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T16:02:02",
+    "transcription_preview": "Adult man collapsed outdoors with hot dry skin confusion\nhig",
+    "latency_ms": 3155.4,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T16:04:41",
+    "transcription_preview": "A patient is bleeding from a small cut at home.",
+    "latency_ms": 3000.2,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T16:15:48",
+    "transcription_preview": "Person with leg fracture needs splint but splint is out of\ns",
+    "latency_ms": 5143.6,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T16:21:27",
+    "transcription_preview": "A 30-year-old man has a small cut on his finger.",
+    "latency_ms": 3238.4,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T16:22:34",
+    "transcription_preview": "Person with leg fracture needs splint but splint is out of\ns",
+    "latency_ms": 3141.9,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T16:23:05",
+    "transcription_preview": "30 year old man has a small cut in his finger.",
+    "latency_ms": 3186.3,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T16:37:40",
+    "transcription_preview": "A 30-year-old man has a small cut on his finger.",
+    "latency_ms": 3181.3,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T16:37:59",
+    "transcription_preview": "A 75-year-old woman has a small cut on her finger.",
+    "latency_ms": 3176.6,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T16:38:03",
+    "transcription_preview": "A person has severe bleeding.",
+    "latency_ms": 3282.1,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T16:38:07",
+    "transcription_preview": "A person has massive, gushing, uncontrolled bleeding.",
+    "latency_ms": 3087.5,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T16:38:12",
+    "transcription_preview": "A baby is unconscious and not breathing.",
+    "latency_ms": 3067.7,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T16:38:16",
+    "transcription_preview": "A group of 30 people have minor scratches after a minor acci",
+    "latency_ms": 3097.4,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T16:38:20",
+    "transcription_preview": "A hiker is trapped in a remote forest with a broken leg duri",
+    "latency_ms": 3409.6,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T16:38:25",
+    "transcription_preview": "A person is submerged in rising flood water and is unrespons",
+    "latency_ms": 3180.6,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T16:54:52",
+    "transcription_preview": "During NCC practice, Vivian's got a small cut in his finger.",
+    "latency_ms": 3167.4,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T18:05:34",
+    "transcription_preview": "Pregnant woman fell down stairs possible fracture and\nbleedi",
+    "latency_ms": 3218.1,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T18:28:14",
+    "transcription_preview": "Pregnant woman fell down stairs possible fracture and\nbleedi",
+    "latency_ms": 4189.7,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T18:34:56",
+    "transcription_preview": "Pregnant woman fell down stairs possible fracture and\nbleedi",
+    "latency_ms": 3151.8,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T18:43:56",
+    "transcription_preview": "\"Baby not breathing after choking on object at home\"",
+    "latency_ms": 3077.2,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T18:49:26",
+    "transcription_preview": "\"Bus accident on highway multiple victims with fractures and",
+    "latency_ms": 2996.8,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T19:06:27",
+    "transcription_preview": "Bus accident on highway multiple victims with fractures and\n",
+    "latency_ms": 3043.2,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T19:08:44",
+    "transcription_preview": "Bus accident on highway multiple victims with fractures and\n",
+    "latency_ms": 3133.8,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T19:09:10",
+    "transcription_preview": "Bus accident on highway multiple victims with fractures and\n",
+    "latency_ms": 2998.9,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T19:19:04",
+    "transcription_preview": "\"Bus accident on highway multiple victims with fractures and",
+    "latency_ms": 3076.5,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T19:19:50",
+    "transcription_preview": "\"Bus accident on highway multiple victims with fractures and",
+    "latency_ms": 3451.9,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T19:21:16",
+    "transcription_preview": "\"Bus accident on highway multiple victims with fractures and",
+    "latency_ms": 3283.5,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T19:22:23",
+    "transcription_preview": "\"Bus accident on highway multiple victims with fractures and",
+    "latency_ms": 3012.8,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T19:30:01",
+    "transcription_preview": "Bus accident on highway multiple victims with fractures and\n",
+    "latency_ms": 3196.2,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T19:32:03",
+    "transcription_preview": "Bus accident on highway multiple victims with fractures and\n",
+    "latency_ms": 3298.5,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T19:32:37",
+    "transcription_preview": "Bus accident on highway multiple victims with fractures and\n",
+    "latency_ms": 3206.6,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T19:32:59",
+    "transcription_preview": "Bus accident on highway multiple victims with fractures and\n",
+    "latency_ms": 3570.2,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T20:13:17",
+    "transcription_preview": "Bus accident on highway multiple victims with fractures and\n",
+    "latency_ms": 3186.7,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T20:13:57",
+    "transcription_preview": "Bus accident on highway multiple victims with fractures and\n",
+    "latency_ms": 3184.5,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T20:14:28",
+    "transcription_preview": "Bus accident on highway multiple victims with fractures and\n",
+    "latency_ms": 3227.4,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T20:14:44",
+    "transcription_preview": "Bus accident on highway multiple victims with fractures and\n",
+    "latency_ms": 3244.7,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T20:15:42",
+    "transcription_preview": "Bus accident on highway multiple victims with fractures and\n",
+    "latency_ms": 3167.4,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T20:16:58",
+    "transcription_preview": "Bus accident on highway multiple victims with fractures and\n",
+    "latency_ms": 3246.9,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T20:17:41",
+    "transcription_preview": "Bus accident on highway multiple victims with fractures and\n",
+    "latency_ms": 3121.7,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T20:18:00",
+    "transcription_preview": "Bus accident on highway multiple victims with fractures and\n",
+    "latency_ms": 3096.6,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T21:38:16",
+    "transcription_preview": "Elderly woman pulled from flood water shivering confused\nand",
+    "latency_ms": 3180.4,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T21:40:23",
+    "transcription_preview": "Elderly woman pulled from flood water shivering confused\nand",
+    "latency_ms": 3291.4,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T21:41:08",
+    "transcription_preview": "Elderly woman pulled from flood water shivering confused\nand",
+    "latency_ms": 3204.4,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T21:41:39",
+    "transcription_preview": "\"Pregnant woman fell down stairs possible fracture and\nbleed",
+    "latency_ms": 3256.4,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T22:18:56",
+    "transcription_preview": "bus accident",
+    "latency_ms": 3195.7,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T22:55:23",
+    "transcription_preview": "Baby not breathing after choking on object at home",
+    "latency_ms": 3322.9,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T22:59:07",
+    "transcription_preview": "Baby not breathing after choking on object at home",
+    "latency_ms": 3386.8,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T23:06:13",
+    "transcription_preview": "Baby not breathing after choking on object at home",
+    "latency_ms": 3578.1,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T23:06:37",
+    "transcription_preview": "Baby not breathing after choking on object at home",
+    "latency_ms": 3196.0,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T23:10:53",
+    "transcription_preview": "Baby not breathing after choking on object at home",
+    "latency_ms": 3085.8,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T23:11:40",
+    "transcription_preview": "Baby not breathing after choking on object at home",
+    "latency_ms": 3303.0,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T23:24:12",
+    "transcription_preview": "Baby not breathing after choking on object at home",
+    "latency_ms": 3354.4,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T23:28:47",
+    "transcription_preview": "Pipeline error: create_incident() got an unexpected keyword ",
+    "latency_ms": 3241.2,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T23:37:19",
+    "transcription_preview": "\"Bus accident on highway multiple victims with fractures and",
+    "latency_ms": 3515.0,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-14T23:44:21",
+    "transcription_preview": "\"Bus accident on highway multiple victims with fractures and",
+    "latency_ms": 3109.3,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-15T00:12:18",
+    "transcription_preview": "Bus accident on highway multiple victims with fractures and\n",
+    "latency_ms": 3436.7,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-15T00:22:20",
+    "transcription_preview": "Baby not breathing after choking on object at home",
+    "latency_ms": 3438.4,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-15T00:31:59",
+    "transcription_preview": "Baby not breathing after choking on object at home",
+    "latency_ms": 3361.0,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  },
+  {
+    "timestamp": "2026-03-15T00:32:38",
+    "transcription_preview": "Baby not breathing after choking on object at home",
+    "latency_ms": 3059.5,
+    "method": "rule_based",
+    "success": false,
+    "error": "LLM unavailable \u2014 used rule-based fallback"
+  }
+]

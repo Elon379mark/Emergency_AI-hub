@@ -1,0 +1,21 @@
+item,location,quantity,category
+splint,Bin A-1,120,orthopedic
+bandage,Bin B-2,99,wound-care
+painkiller,Bin C-3,542,medication
+tourniquet,Bin A-2,640,wound-care
+burn_gel,Bin D-1,544,burn-care
+oxygen_mask,Bin E-1,413,respiratory
+defibrillator,Station 1,643,cardiac
+stretcher,Bay 1,227,transport
+cervical_collar,Bin A-3,649,orthopedic
+gauze,Bin B-1,6536,wound-care
+antiseptic,Bin B-3,50,wound-care
+saline_solution,Bin D-2,5412,wound-care
+epipen,Bin C-1,445,medication
+inhaler,Bin C-2,47,respiratory
+cold_pack,Bin D-3,340,burn-care
+wooden_plank,Storage,553,orthopedic
+rope,Storage,435,rescue
+whistle,Bin F-1,320,signaling
+flashlight,Bin F-2,410,signaling
+first_aid_kit,Bin G-1,777,general

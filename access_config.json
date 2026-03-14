@@ -1,0 +1,34 @@
+{
+  "version": "4.0",
+  "created_at": "2026-03-13T09:07:52",
+  "roles": {
+    "INCIDENT_COMMANDER": {
+      "pin_hash": "c207b03d03ca97dd576b6675254714a3c949a1d974043733dad6e1b70a655bf9",
+      "created_at": "2026-03-13T09:07:52",
+      "last_login": "2026-03-15T00:31:40",
+      "login_count": 4,
+      "active": true
+    },
+    "FIRST_RESPONDER": {
+      "pin_hash": "befad905b411cafb5c1db55ed9807e00666724f8d7bff831e0a65f4587b6f404",
+      "created_at": "2026-03-13T09:07:52",
+      "last_login": null,
+      "login_count": 0,
+      "active": true
+    },
+    "VOLUNTEER": {
+      "pin_hash": "a631783c70fc8694ea88f44c23257ff6ee47e72bdadd640e969a456239e76453",
+      "created_at": "2026-03-13T09:07:52",
+      "last_login": null,
+      "login_count": 0,
+      "active": true
+    },
+    "TRAINER": {
+      "pin_hash": "744151d871fe94e1e8685d758b4e99275570a9fa0ee9b6b36a94814bb6a6f3d7",
+      "created_at": "2026-03-13T09:07:52",
+      "last_login": null,
+      "login_count": 0,
+      "active": true
+    }
+  }
+}

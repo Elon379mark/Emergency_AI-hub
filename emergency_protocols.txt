@@ -1,0 +1,279 @@
+EMERGENCY MEDICAL PROTOCOLS MANUAL
+====================================
+Version 1.0 - Offline Reference Guide
+
+SECTION 1: FRACTURES AND ORTHOPEDIC INJURIES
+=============================================
+
+1.1 LEG FRACTURE PROTOCOL
+--------------------------
+Signs and Symptoms:
+- Visible deformity or unnatural angle of the limb
+- Severe pain and tenderness at injury site
+- Swelling and bruising
+- Inability to bear weight or move the limb
+- Possible bone protruding through skin (open fracture)
+
+Treatment Steps:
+1. DO NOT attempt to straighten the fracture
+2. Immobilize the leg in the position found
+3. Apply a rigid splint extending above and below the fracture site
+4. Pad the splint with soft material to prevent pressure sores
+5. Secure the splint with bandages, not too tight to restrict circulation
+6. Check circulation (pulse, color, warmth) below injury every 5 minutes
+7. Apply cold pack (wrapped in cloth) to reduce swelling - 20 min on / 20 min off
+8. Elevate the limb if no spinal injury suspected
+9. Administer pain relief as appropriate
+10. Do NOT give food or water (surgery may be needed)
+11. Transport to medical facility as soon as possible
+
+For Open Fractures:
+- Cover wound with sterile dressing
+- Do NOT push bone back in
+- Apply gentle pressure around wound to control bleeding
+
+1.2 ARM FRACTURE PROTOCOL
+--------------------------
+Treatment Steps:
+1. Support the arm in a comfortable position
+2. Apply a sling to immobilize
+3. Use padding between arm and body
+4. Check circulation in fingers regularly
+5. Apply cold pack to reduce swelling
+
+1.3 SPINAL FRACTURE PROTOCOL
+------------------------------
+CRITICAL - Assume spinal injury for all trauma patients
+Treatment Steps:
+1. DO NOT move the patient unless in immediate danger
+2. Keep head, neck, and spine perfectly aligned
+3. Apply cervical collar if available
+4. Log-roll technique ONLY if must be moved
+5. Maintain airway without tilting head
+
+SECTION 2: BLEEDING AND WOUND CARE
+=====================================
+
+2.1 SEVERE BLEEDING PROTOCOL
+------------------------------
+Severity Assessment:
+- CRITICAL: Arterial bleeding (bright red, spurting), loss of large volume
+- HIGH: Venous bleeding (dark red, steady flow)
+- MEDIUM: Capillary bleeding (slow ooze)
+
+Treatment Steps:
+1. Apply direct pressure using sterile gauze or clean cloth
+2. Maintain firm, continuous pressure for minimum 10 minutes
+3. Do NOT remove initial dressing - add more gauze on top if soaked
+4. For limb bleeding: apply tourniquet 2-3 inches above wound if direct pressure fails
+5. Mark tourniquet application time on patient's skin
+6. Elevate bleeding limb above heart level if no fracture suspected
+7. Watch for signs of shock (pale, cold, sweaty skin; rapid weak pulse)
+8. Keep patient warm and lying down
+9. Do NOT apply tourniquet to neck, armpit, or groin
+
+Tourniquet Application:
+1. Position tourniquet 2-3 inches above wound
+2. Tighten until bleeding stops
+3. Record time of application prominently
+4. Never loosen once applied in field
+
+2.2 MINOR CUT AND LACERATION PROTOCOL
+---------------------------------------
+Treatment Steps:
+1. Clean hands before treating wound
+2. Apply gentle pressure with clean cloth
+3. Clean wound with clean water or saline
+4. Apply antiseptic solution
+5. Cover with sterile bandage or dressing
+6. Change dressing daily or if soaked
+
+SECTION 3: BURNS
+==================
+
+3.1 THERMAL BURN PROTOCOL
+---------------------------
+Burn Degree Classification:
+- First Degree: Redness, no blisters (superficial)
+- Second Degree: Blisters, wet appearance (partial thickness)
+- Third Degree: White/charred, no pain (full thickness) - CRITICAL
+
+Treatment Steps:
+1. Remove from heat source immediately (ensure your safety first)
+2. Remove clothing and jewelry near burn (if not stuck to skin)
+3. Cool burn with cool (NOT cold/iced) running water for 20 minutes minimum
+4. Do NOT use ice, butter, toothpaste, or home remedies
+5. Cover loosely with sterile non-stick dressing or cling wrap
+6. Do NOT burst blisters
+7. Apply burn gel if available
+8. Give pain relief for first/second degree burns
+9. Keep patient warm (risk of hypothermia)
+10. Third degree burns - cover only, no cooling - seek emergency help immediately
+
+For Chemical Burns:
+1. Remove contaminated clothing
+2. Flush with large amounts of water for 20+ minutes
+3. Do NOT try to neutralize the chemical
+
+3.2 ELECTRICAL BURN PROTOCOL
+------------------------------
+CRITICAL - Do NOT touch victim if still in contact with electricity
+Treatment Steps:
+1. Disconnect power source or use non-conductive tool to move victim
+2. Check for breathing and pulse - CPR may be needed
+3. Treat burns as thermal burns
+4. Assume internal injuries always exist with electrical burns
+5. Cardiac monitoring required - risk of arrhythmia
+
+SECTION 4: CARDIAC EMERGENCIES
+================================
+
+4.1 CARDIAC ARREST PROTOCOL
+-----------------------------
+Signs: Unresponsive, not breathing, no pulse
+
+Treatment Steps (Chain of Survival):
+1. Check scene safety
+2. Check responsiveness - tap shoulders, shout "Are you okay?"
+3. Call for emergency services immediately
+4. Begin CPR:
+   - Position: Heel of hands on center of chest
+   - Depth: At least 2 inches
+   - Rate: 100-120 compressions per minute
+   - Ratio: 30 compressions : 2 rescue breaths (or hands-only CPR)
+5. Use AED/Defibrillator as soon as available:
+   - Turn on AED
+   - Attach pads as shown in diagram
+   - Ensure no one touching patient during shock
+   - Resume CPR immediately after shock
+6. Continue until patient recovers or emergency services arrive
+
+4.2 HEART ATTACK PROTOCOL
+---------------------------
+Signs: Chest pain, left arm/jaw pain, sweating, nausea, shortness of breath
+
+Treatment Steps:
+1. Help patient sit or lie in comfortable position (semi-reclined)
+2. Loosen tight clothing
+3. Give aspirin (325mg) if not allergic and not contraindicated
+4. Provide oxygen if available
+5. Monitor vital signs every 5 minutes
+6. Prepare for CPR if patient loses consciousness
+7. Do NOT leave patient alone
+
+SECTION 5: RESPIRATORY EMERGENCIES
+=====================================
+
+5.1 CHOKING PROTOCOL
+---------------------
+Conscious Adult:
+1. Encourage coughing
+2. Give 5 back blows between shoulder blades
+3. Give 5 abdominal thrusts (Heimlich maneuver)
+4. Alternate back blows and abdominal thrusts
+5. If unconscious - begin CPR
+
+5.2 ASTHMA ATTACK PROTOCOL
+----------------------------
+Treatment Steps:
+1. Help patient use their own inhaler
+2. Sit upright, lean slightly forward
+3. Remove triggers (smoke, pets, etc.)
+4. Encourage slow, controlled breathing
+5. Give bronchodilator inhaler: 4 puffs, 4 breaths each, repeat every 4 minutes
+6. If no improvement after 4 puffs - seek emergency help
+
+SECTION 6: DISASTER-SPECIFIC PROTOCOLS
+=========================================
+
+6.1 FLOOD EMERGENCY PROTOCOL
+------------------------------
+Priority Actions:
+1. Move to highest available ground
+2. Do NOT walk in moving water (6 inches can knock an adult down)
+3. Do NOT drive through flooded areas
+4. Treat for hypothermia if wet
+5. Disinfect all wounds (floodwater is highly contaminated)
+6. Treat drinking water before consumption
+
+Rescue Operations:
+1. Use rope for water rescue - do NOT enter fast-moving water
+2. Throw rescue equipment - reach, throw, don't go
+3. Check for structural damage before entering buildings
+4. Watch for electrical hazards (downed lines, flooded electrical panels)
+
+6.2 EARTHQUAKE PROTOCOL
+------------------------
+During Earthquake:
+1. DROP, COVER, HOLD ON
+2. Under sturdy table or desk
+3. Away from windows and exterior walls
+
+After Earthquake:
+1. Check for injuries using TRIAGE protocol
+2. Check for gas leaks (do NOT use flames)
+3. Check for structural damage
+4. Prepare for aftershocks
+5. Do NOT use elevators
+
+6.3 FIRE EMERGENCY PROTOCOL
+-----------------------------
+Evacuation:
+1. Activate fire alarm
+2. Low crawl if smoke present
+3. Check doors for heat before opening
+4. Close doors behind you
+5. Never use elevator
+6. Assembly at designated muster point
+
+For Trapped Victims:
+1. Seal gaps under doors with cloth
+2. Signal from windows
+3. Stay low
+4. Do NOT open windows if smoke outside
+
+SECTION 7: TRIAGE MASS CASUALTY PROTOCOL
+==========================================
+
+START Triage System:
+- IMMEDIATE (Red): Life-threatening, can survive with immediate intervention
+- DELAYED (Yellow): Serious but stable, can wait
+- MINOR (Green): Walking wounded, minimal care needed
+- EXPECTANT (Black): Unsurvivable injuries or deceased
+
+Triage Assessment Order:
+1. Breathing - is patient breathing?
+2. Perfusion - capillary refill < 2 seconds?
+3. Mental status - can follow simple commands?
+
+SECTION 8: ENVIRONMENTAL EMERGENCIES
+=======================================
+
+8.1 HYPOTHERMIA PROTOCOL
+--------------------------
+Signs: Shivering, confusion, slurred speech, pale/blue skin
+
+Treatment Steps:
+1. Move to warm, dry environment
+2. Remove wet clothing
+3. Cover with blankets (include head)
+4. Give warm (not hot) beverages if conscious
+5. Do NOT rub or massage extremities
+6. Handle gently - risk of cardiac arrhythmia
+7. Monitor core temperature if possible
+
+8.2 HEAT STROKE PROTOCOL
+--------------------------
+Signs: High body temperature (>104°F/40°C), confusion, hot dry skin, no sweating
+
+Treatment Steps:
+1. CRITICAL - Cool immediately
+2. Move to cool environment
+3. Remove excess clothing
+4. Ice packs to neck, armpits, and groin
+5. Wet skin and fan vigorously
+6. Cool water immersion if available
+7. Do NOT give oral fluids if unconscious
+8. Monitor temperature every 5 minutes
+
+END OF MANUAL

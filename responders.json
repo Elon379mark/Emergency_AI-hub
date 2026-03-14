@@ -1,0 +1,62 @@
+[
+  {
+    "team_id": "TEAM-ALPHA",
+    "name": "Alpha Rescue Unit",
+    "type": "rescue",
+    "members": 4,
+    "status": "busy",
+    "lat": 0.0,
+    "lon": 0.0,
+    "current_incident": "INC-B6DF0D",
+    "skills": [
+      "fracture",
+      "trapped",
+      "flood"
+    ],
+    "created_at": "2026-03-13T08:13:11"
+  },
+  {
+    "team_id": "TEAM-BRAVO",
+    "name": "Bravo Medical Unit",
+    "type": "medical",
+    "members": 3,
+    "status": "busy",
+    "lat": 0.0,
+    "lon": 0.005,
+    "current_incident": "INC-B50838",
+    "skills": [
+      "cardiac_arrest",
+      "bleeding",
+      "burn"
+    ],
+    "created_at": "2026-03-13T08:13:11"
+  },
+  {
+    "team_id": "TEAM-CHARLIE",
+    "name": "Charlie General Response",
+    "type": "general",
+    "members": 5,
+    "status": "busy",
+    "lat": 0.003,
+    "lon": 0.0,
+    "current_incident": "INC-EE3CA9",
+    "skills": [],
+    "created_at": "2026-03-13T08:13:11"
+  },
+  {
+    "team_id": "TEAM-DELTA",
+    "name": "Delta Hazmat Unit",
+    "type": "hazmat",
+    "members": 4,
+    "status": "busy",
+    "lat": 0.005,
+    "lon": 0.005,
+    "current_incident": "INC-4933D2",
+    "skills": [
+      "chemical",
+      "toxic",
+      "fire"
+    ],
+    "created_at": "2026-03-13T08:13:11"
+  }
+]

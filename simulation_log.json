@@ -1,0 +1,60 @@
+[
+  {
+    "session_id": "22042421",
+    "scenario_id": "SIM-007",
+    "scenario_name": "Drowning \u2014 Beach",
+    "score": 65,
+    "max_score": 75,
+    "percentage": 86.7,
+    "grade": "A",
+    "response_time_seconds": 24.6,
+    "breakdown": [
+      {
+        "item": "Correct severity",
+        "points": 30
+      },
+      {
+        "item": "Team count off by 1 (3 vs 2)",
+        "points": 10
+      },
+      {
+        "item": "Speed bonus (<60s)",
+        "points": 25
+      }
+    ],
+    "actual_severity": "CRITICAL",
+    "expected_severity": "CRITICAL",
+    "actual_teams": 3,
+    "expected_teams": 2,
+    "completed_at": "2026-03-14T22:10:33"
+  },
+  {
+    "session_id": "54FA6A3D",
+    "scenario_id": "SIM-009",
+    "scenario_name": "Structural Fire \u2014 High-Rise",
+    "score": 55,
+    "max_score": 75,
+    "percentage": 73.3,
+    "grade": "B",
+    "response_time_seconds": 15.6,
+    "breakdown": [
+      {
+        "item": "Correct severity",
+        "points": 30
+      },
+      {
+        "item": "Team count off by 3",
+        "points": 0
+      },
+      {
+        "item": "Speed bonus (<60s)",
+        "points": 25
+      }
+    ],
+    "actual_severity": "CRITICAL",
+    "expected_severity": "CRITICAL",
+    "actual_teams": 2,
+    "expected_teams": 5,
+    "completed_at": "2026-03-14T22:12:09"
+  }
+]

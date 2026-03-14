@@ -1,0 +1,34 @@
+[
+  {
+    "assignment_id": "ASGN-0001",
+    "incident_id": "INC-B6DF0D",
+    "team_id": "TEAM-ALPHA",
+    "score": 0.85,
+    "timestamp": "2026-03-13T08:13:11",
+    "travel_time_est": 0.0
+  },
+  {
+    "assignment_id": "ASGN-0002",
+    "incident_id": "INC-EE3CA9",
+    "team_id": "TEAM-CHARLIE",
+    "score": 0.8,
+    "timestamp": "2026-03-13T08:14:20",
+    "travel_time_est": 0.0
+  },
+  {
+    "assignment_id": "ASGN-0003",
+    "incident_id": "INC-B50838",
+    "team_id": "TEAM-BRAVO",
+    "score": 0.92,
+    "timestamp": "2026-03-13T03:36:26",
+    "travel_time_est": 0.0
+  },
+  {
+    "assignment_id": "ASGN-0004",
+    "incident_id": "INC-4933D2",
+    "team_id": "TEAM-DELTA",
+    "score": 0.92,
+    "timestamp": "2026-03-13T03:45:29",
+    "travel_time_est": 0.0
+  }
+]

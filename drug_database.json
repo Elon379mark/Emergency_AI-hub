@@ -1,0 +1,217 @@
+{
+  "_comment": "Extended drug database for Disaster Command Center v4. Supplements the 20 builtin drugs in drug_checker.py. Add custom drugs here.",
+  "calcium_gluconate": {
+    "generic_name": "Calcium Gluconate",
+    "brand_names": ["Calcionate"],
+    "class": "Electrolyte supplement",
+    "indications": ["hyperkalemia", "hypocalcemia", "calcium channel blocker overdose", "magnesium toxicity"],
+    "contraindications": ["hypercalcemia", "digoxin toxicity", "ventricular fibrillation"],
+    "dosage": {
+      "adult_hyperkalemia_iv": "1g (10mL of 10% solution) IV over 3-5min",
+      "adult_hypocalcemia_iv": "1-2g IV slowly",
+      "pediatric": "60-100mg/kg IV slowly (max 1-3g)"
+    },
+    "max_dose_adult_mg": 3000.0,
+    "onset_minutes": 2,
+    "duration_minutes": 60,
+    "interactions": {
+      "digoxin": "MAJOR — cardiac toxicity",
+      "ceftriaxone": "MAJOR — precipitation in IV lines, NEVER mix"
+    },
+    "pregnancy_category": "C",
+    "storage": "Room temperature"
+  },
+  "magnesium_sulfate": {
+    "generic_name": "Magnesium Sulfate",
+    "brand_names": ["Magnesium"],
+    "class": "Electrolyte / Anticonvulsant",
+    "indications": ["eclampsia", "pre-eclampsia", "torsades de pointes", "severe asthma", "hypomagnesemia"],
+    "contraindications": ["heart block", "renal failure (reduce dose)", "myasthenia gravis"],
+    "dosage": {
+      "adult_eclampsia_iv": "4-6g IV over 20min, then 1-2g/h infusion",
+      "adult_torsades_iv": "1-2g IV over 5-15min",
+      "pediatric_asthma": "25-75mg/kg IV over 20min (max 2g)"
+    },
+    "max_dose_adult_mg": 30000.0,
+    "onset_minutes": 5,
+    "duration_minutes": 180,
+    "interactions": {
+      "calcium_channel_blockers": "MAJOR — additive hypotension",
+      "neuromuscular_blockers": "MAJOR — prolonged paralysis",
+      "calcium_gluconate": "ANTIDOTE — use for Mg toxicity reversal"
+    },
+    "pregnancy_category": "A",
+    "storage": "Room temperature"
+  },
+  "metoprolol": {
+    "generic_name": "Metoprolol",
+    "brand_names": ["Lopressor", "Toprol-XL"],
+    "class": "Beta-1 selective blocker",
+    "indications": ["acute MI", "atrial fibrillation rate control", "SVT", "hypertensive emergency"],
+    "contraindications": ["severe bradycardia", "decompensated heart failure", "asthma (relative)", "second/third degree AV block"],
+    "dosage": {
+      "adult_mi_iv": "5mg IV q5min (max 15mg over 15min)",
+      "adult_afib_iv": "2.5-5mg IV over 2min, repeat q5min (max 15mg)"
+    },
+    "max_dose_adult_mg": 200.0,
+    "onset_minutes": 5,
+    "duration_minutes": 360,
+    "interactions": {
+      "epinephrine": "MAJOR — blunts adrenaline effect, hypertension risk",
+      "calcium_channel_blockers": "MAJOR — severe bradycardia/hypotension",
+      "clonidine": "MODERATE — rebound hypertension on withdrawal"
+    },
+    "pregnancy_category": "C",
+    "storage": "Room temperature"
+  },
+  "labetalol": {
+    "generic_name": "Labetalol",
+    "brand_names": ["Normodyne", "Trandate"],
+    "class": "Alpha and Beta blocker",
+    "indications": ["hypertensive emergency", "aortic dissection", "hypertension in pregnancy"],
+    "contraindications": ["asthma", "severe bradycardia", "decompensated heart failure", "greater than first degree heart block"],
+    "dosage": {
+      "adult_hypertensive_emergency_iv": "20mg IV over 2min, then 40-80mg q10min (max 300mg total)",
+      "adult_infusion": "1-2mg/min IV infusion"
+    },
+    "max_dose_adult_mg": 300.0,
+    "onset_minutes": 5,
+    "duration_minutes": 180,
+    "interactions": {
+      "cimetidine": "MODERATE — increases labetalol levels",
+      "nitroglycerin": "MODERATE — additive hypotension",
+      "tricyclic_antidepressants": "MODERATE — tremor risk"
+    },
+    "pregnancy_category": "C",
+    "storage": "Room temperature"
+  },
+  "alteplase": {
+    "generic_name": "Alteplase (tPA)",
+    "brand_names": ["Activase", "Actilyse"],
+    "class": "Thrombolytic",
+    "indications": ["ischemic stroke (within 4.5h)", "massive pulmonary embolism", "STEMI (when PCI unavailable)"],
+    "contraindications": ["active bleeding", "recent surgery <2 weeks", "history of hemorrhagic stroke", "severe hypertension SBP>185", "anticoagulated patients", "trauma"],
+    "dosage": {
+      "adult_stroke_iv": "0.9mg/kg IV (max 90mg): 10% as bolus, 90% over 60min",
+      "adult_PE_iv": "100mg IV over 2h (or 50mg if cardiac arrest)"
+    },
+    "max_dose_adult_mg": 100.0,
+    "onset_minutes": 15,
+    "duration_minutes": 60,
+    "interactions": {
+      "anticoagulants": "MAJOR — severe bleeding risk",
+      "aspirin": "MAJOR — bleeding risk in first 24h post-tPA",
+      "heparin": "MAJOR — do not use concurrently during infusion"
+    },
+    "pregnancy_category": "C",
+    "storage": "Refrigerate, use within 8h of reconstitution"
+  },
+  "phenobarbital": {
+    "generic_name": "Phenobarbital",
+    "brand_names": ["Luminal"],
+    "class": "Barbiturate anticonvulsant",
+    "indications": ["status epilepticus (refractory)", "seizure prevention", "alcohol withdrawal seizures"],
+    "contraindications": ["respiratory depression", "porphyria", "severe hepatic impairment"],
+    "dosage": {
+      "adult_status_epilepticus_iv": "15-20mg/kg IV at max 60mg/min",
+      "pediatric": "15-20mg/kg IV at max 1mg/kg/min"
+    },
+    "max_dose_adult_mg": 1500.0,
+    "onset_minutes": 15,
+    "duration_minutes": 720,
+    "interactions": {
+      "opioids": "MAJOR — respiratory depression",
+      "benzodiazepines": "MAJOR — additive CNS depression",
+      "warfarin": "MAJOR — reduces warfarin levels"
+    },
+    "pregnancy_category": "D",
+    "storage": "Room temperature, controlled substance"
+  },
+  "levetiracetam": {
+    "generic_name": "Levetiracetam",
+    "brand_names": ["Keppra"],
+    "class": "Anticonvulsant",
+    "indications": ["status epilepticus", "seizure prophylaxis", "partial onset seizures"],
+    "contraindications": ["renal failure (reduce dose)", "known hypersensitivity"],
+    "dosage": {
+      "adult_status_epilepticus_iv": "60mg/kg IV over 10min (max 4500mg)",
+      "adult_seizure_prophylaxis_iv": "1000-3000mg IV over 15min",
+      "pediatric": "20-60mg/kg IV (max 3000mg)"
+    },
+    "max_dose_adult_mg": 4500.0,
+    "onset_minutes": 15,
+    "duration_minutes": 720,
+    "interactions": {
+      "carbamazepine": "MODERATE — increased carbamazepine levels",
+      "phenytoin": "MINOR — minimal interaction"
+    },
+    "pregnancy_category": "C",
+    "storage": "Room temperature"
+  },
+  "dexamethasone": {
+    "generic_name": "Dexamethasone",
+    "brand_names": ["Decadron"],
+    "class": "Corticosteroid",
+    "indications": ["croup", "cerebral edema", "spinal cord injury", "severe allergic reaction", "COVID-19 (severe)"],
+    "contraindications": ["systemic fungal infection", "live vaccines"],
+    "dosage": {
+      "adult_cerebral_edema_iv": "10mg IV bolus, then 4mg q6h",
+      "adult_croup_oral_im": "0.6mg/kg IM/PO (max 10mg)",
+      "pediatric_croup": "0.15-0.6mg/kg PO/IM"
+    },
+    "max_dose_adult_mg": 40.0,
+    "onset_minutes": 60,
+    "duration_minutes": 1440,
+    "interactions": {
+      "NSAIDs": "MODERATE — GI bleeding",
+      "diabetes_medications": "MODERATE — hyperglycemia",
+      "fluoroquinolones": "MODERATE — tendon rupture risk"
+    },
+    "pregnancy_category": "C",
+    "storage": "Room temperature"
+  },
+  "heparin": {
+    "generic_name": "Unfractionated Heparin",
+    "brand_names": ["Heparin"],
+    "class": "Anticoagulant",
+    "indications": ["deep vein thrombosis", "pulmonary embolism", "STEMI", "acute coronary syndrome"],
+    "contraindications": ["active major bleeding", "heparin-induced thrombocytopenia (HIT)", "severe thrombocytopenia"],
+    "dosage": {
+      "adult_PE_iv": "80 units/kg bolus then 18 units/kg/h infusion",
+      "adult_DVT_prophylaxis_sc": "5000 units SC q8-12h"
+    },
+    "max_dose_adult_mg": null,
+    "onset_minutes": 5,
+    "duration_minutes": 240,
+    "interactions": {
+      "aspirin": "MAJOR — bleeding risk",
+      "NSAIDs": "MAJOR — bleeding risk",
+      "protamine_sulfate": "ANTIDOTE — reverses heparin"
+    },
+    "pregnancy_category": "C",
+    "storage": "Room temperature"
+  },
+  "salbutamol": {
+    "generic_name": "Salbutamol (Albuterol)",
+    "brand_names": ["Ventolin", "ProAir"],
+    "class": "Short-acting beta-2 agonist (SABA)",
+    "indications": ["acute asthma", "COPD exacerbation", "bronchospasm", "hyperkalemia (adjunct)"],
+    "contraindications": ["tachycardia (relative)", "known hypersensitivity"],
+    "dosage": {
+      "adult_asthma_nebulizer": "2.5-5mg nebulized q20min x 3, then q1-4h",
+      "adult_inhaler": "2-4 puffs (100mcg/puff) q4-6h",
+      "adult_iv": "250mcg slow IV (if no nebulizer)",
+      "pediatric_nebulizer": "2.5mg nebulized q20min x 3"
+    },
+    "max_dose_adult_mg": 15.0,
+    "onset_minutes": 5,
+    "duration_minutes": 360,
+    "interactions": {
+      "beta_blockers": "MAJOR — reduces bronchodilation effect",
+      "MAO_inhibitors": "MAJOR — hypertensive crisis",
+      "digoxin": "MODERATE — hypokalemia increases digoxin toxicity"
+    },
+    "pregnancy_category": "C",
+    "storage": "Room temperature, away from heat"
+  }
+}

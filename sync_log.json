@@ -1,0 +1,9 @@
+[
+  {
+    "timestamp": "2026-03-14T22:12:40",
+    "node_id": "D3432271",
+    "event": "SERVER_STARTED",
+    "peer_ip": "",
+    "details": "Listening on port 5555"
+  }
+]
