@@ -330,28 +330,15 @@ with tab_response:
                     f.write(audio.getbuffer())
 
                 try:
-                    import soundfile as sf
-                    import numpy as np
                     from speech.multilingual_stt import transcribe_multilingual
 
-                    audio_array, sr = sf.read("temp_voice.wav")
-
-                    # Convert stereo → mono
-                    if len(audio_array.shape) > 1:
-                        audio_array = audio_array.mean(axis=1)
-
-                    # Normalize audio
-                    max_val = np.max(np.abs(audio_array))
-                    if max_val > 0:
-                        audio_array = audio_array / max_val
-
+                    print(f"[UI] Calling STT with: {'temp_voice.wav'} (type: {type('temp_voice.wav')})")
                     stt_result = transcribe_multilingual(
-                        audio_array,
-                        sr,
+                        "temp_voice.wav",
                         force_language=forced_language
                     )
 
-                    # Handle Hindi/Hinglish translation
+                    st.session_state.voice_transcription = ""
                     if stt_result.get("detected_language") == "hi":
                         st.session_state.voice_transcription = stt_result.get("text_english", "")
                     else:
@@ -364,6 +351,9 @@ with tab_response:
                         st.session_state.voice_transcription,
                         height=120
                     )
+                    
+                    # Update the local variable so the processor can see it
+                    voice_transcription = st.session_state.voice_transcription
 
                 except Exception as e:
                     st.error(f"Speech recognition error: {e}")
