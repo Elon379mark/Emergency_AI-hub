@@ -100,14 +100,25 @@ def _get_model(model_size: str = "base"):
         return None
 
 
-def _normalize_audio(audio_array: np.ndarray) -> np.ndarray:
-    """Normalize audio to float32 in [-1, 1] range."""
-    if audio_array.dtype != np.float32:
-        audio_array = audio_array.astype(np.float32)
-    max_val = np.abs(audio_array).max()
-    if max_val > 0:
-        audio_array = audio_array / max_val
-    return audio_array
+def _normalize_audio(audio_array: Any) -> Any:
+    """Normalize audio to float32 in [-1, 1] range. If string or untyped, return as-is."""
+    # Ultra-defensive check
+    try:
+        if isinstance(audio_array, (str, bytes)):
+            return audio_array
+        
+        if not hasattr(audio_array, 'dtype'):
+            return audio_array
+
+        if audio_array.dtype != np.float32:
+            audio_array = audio_array.astype(np.float32)
+        max_val = np.abs(audio_array).max()
+        if max_val > 0:
+            audio_array = audio_array / max_val
+        return audio_array
+    except Exception as e:
+        print(f"[STT] Norm warning: {e}")
+        return audio_array
 
 def _correct_emergency_terms(text: str) -> str:
     """Fix common emergency speech recognition mistakes."""
@@ -185,14 +196,14 @@ def detect_language(audio_array: np.ndarray, sample_rate: int = 16000) -> Dict:
         }
 
 
-def transcribe_multilingual(audio_array: np.ndarray,
+def transcribe_multilingual(audio_input: Any,
                              sample_rate: int = 16000,
                              force_language: Optional[str] = None) -> Dict:
     """
     Transcribe audio in any supported language and translate to English.
 
     Args:
-        audio_array: NumPy array of audio samples
+        audio_input: NumPy array of audio samples OR path to audio file
         sample_rate: Sample rate (default 16000 for Whisper)
         force_language: Optional ISO code to skip auto-detection
 
@@ -223,7 +234,29 @@ def transcribe_multilingual(audio_array: np.ndarray,
             "error": "faster-whisper package not installed",
         }
 
-    audio = _normalize_audio(audio_array)
+    # Diagnostic logging
+    print(f"[STT] transcribe_multilingual received: {type(audio_input)} | {str(audio_input)[:50]}")
+
+    audio = audio_input
+    
+    # ── Handle NumPy array: Resample to 16000 if needed ──
+    if hasattr(audio_input, 'dtype') and not isinstance(audio_input, str):
+        audio = _normalize_audio(audio_input)
+        
+        # If not 16000Hz, resample using numpy (simple linear interpolation)
+        if sample_rate != 16000:
+            duration = len(audio) / sample_rate
+            new_len = int(duration * 16000)
+            audio = np.interp(
+                np.linspace(0, duration, new_len),
+                np.linspace(0, duration, len(audio)),
+                audio
+            ).astype(np.float32)
+    elif isinstance(audio_input, str):
+        audio = audio_input
+    else:
+        # Fallback for other objects (e.g. Path)
+        audio = str(audio_input) if not hasattr(audio_input, 'read') else audio_input
 
     try:
         # ── Step 1: Transcribe in original language ──
@@ -236,7 +269,7 @@ def transcribe_multilingual(audio_array: np.ndarray,
             without_timestamps=True,
             vad_filter=True,
             initial_prompt=EMERGENCY_VOCABULARY
-)
+        )
         text_original = " ".join(seg.text.strip() for seg in segments_orig).strip()
         text_original = _correct_emergency_terms(text_original)
         detected_lang = info.language if hasattr(info, "language") else "en"
